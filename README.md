@@ -11,7 +11,6 @@ This list will broadly include the articles/courses that are related to HCI + AI
 ### ACM Annual Meeting of the Intelligent User Interfaces Community (IUI)
 | Year |  Paper | 
 |------|-------------------------------|
-| 2018 | [To be added](https://dl.acm.org/citation.cfm?id=3242593) | 
 | 2018 | [Creative Writing with a Machine in the Loop: Case Studies on Slogans and Stories](https://homes.cs.washington.edu/~eaclark7/www/iui2018.pdf) | 
 
 ### ACM Conference on Human Factors in Computing Systems (CHI)
