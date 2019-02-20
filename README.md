@@ -8,6 +8,8 @@ As a grad student studying HCI, I want to know _how_ these papers select models 
 
 However, it seems like so far there is no single entry to all these HCI + ML/ Human-AI Interaction resources. Therefore I started to maintain this list on 2/19/2019. 
 
+>__Disclaimer__: Since HCI is a very interdisciplinary field, it's impossible to include every paper related to ML/AI. I would focus more on (but definitely not limited to) technical HCI papers.
+
 ## Conference Papers 
 
 ### ACM Annual Meeting of the Intelligent User Interfaces Community (IUI)
