@@ -14,6 +14,7 @@ This list will broadly include the articles/courses that are related to HCI + AI
 | Year |  Paper | 
 |------|-------------------------------|
 | 2018 | [To be added](https://dl.acm.org/citation.cfm?id=3242593) | 
+| 2018 | [Creative Writing with a Machine in the Loop: Case Studies on Slogans and Stories]. (https://homes.cs.washington.edu/~eaclark7/www/iui2018.pdf) |
 
 ### ACM User Interface and Software Technology (UIST)
 
@@ -41,6 +42,7 @@ There are also some awesome course resources discussing Intelligent User Interfa
 | Carnegie Mellon University | [Human-AI Interaction](http://humanaiclass.org/)| Jeff Bigham and Joseph Seering|
 | Aalto University| [Intelligent User Interfaces Studio](https://mycourses.aalto.fi/course/view.php?id=20975)| Kashyap Todi and Sunjun Kim|
 | Penn State University| [Crowdsourcing & Crowd-AI Systems](http://crowdaiclass.org/)|Kenneth Huang|
+| University of Colorado Boulder| [Human-centered Machine Learning](https://chenhaot.com/courses/hcml/home.html)|Chenhao Tan|
 
 
 
