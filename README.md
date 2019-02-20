@@ -2,7 +2,11 @@
 
 Curator: Bryan Wang ([Website](http://www.dgp.toronto.edu/~bryanw/)).
 
-There has been a rising trend of applying new __machine learning__ algorithms, especially __deep learning__, to solve __Human-Computer Interaction__ problems. As a grad student studying HCI, I want to know _how_ these papers select models and apply to them to _what_ kind of scenarios. However, it seems like so far there is no single entry to all these awesome resources. Therefore I started to maintain this awesome list on 2/19/2019. 
+There has been a rising trend of applying new __machine learning__/__deep learning__ models, or the buzzword __AI__, to solve __Human-Computer Interaction__ problems. 
+
+As a grad student studying HCI, I want to know _how_ these papers select models and apply them to _what_ kind of scenarios. Or what are the conceptual ideas on how human could better interact with intelligent systems. 
+
+However, it seems like so far there is no single entry to all these HCI + ML/ Human-AI Interaction resources. Therefore I started to maintain this awesome list on 2/19/2019. 
 
 ## Conference Papers 
 
@@ -25,10 +29,12 @@ There has been a rising trend of applying new __machine learning__ algorithms, e
 ### ACM Conference on Human Factors in Computing Systems (CHI)
 | Year |  Paper | 
 |------|-------------------------------|
-| 2018 | [To be added](https://dl.acm.org/citation.cfm?id=3242593) | 
+| 2019 | [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf) | 
+
+
 
 ## Courses
-There are some awesome course resources discussing intelligent user interface/ Human-AI interaction
+There are also some awesome course resources discussing Intelligent User Interface/ Human-AI interaction
 
 | School |  Course | Lecturer|
 |------|-------------------------------|------|
