@@ -1,4 +1,4 @@
-# Awesome HCI + ML List
+# Awesome HCI + DL List
 
 Curator: Bryan Wang ([Website](http://www.dgp.toronto.edu/~bryanw/)), Joe Hsu.
 
