@@ -6,6 +6,8 @@ There has been a rising trend of applying new __machine learning__/__deep learni
 
 However, it seems like so far there is no single entry to all these HCI + ML/ Human-AI Interaction resources. That's why we started to maintain this list. 
 
+This list will broadly include the articles/courses that are related to HCI + AI or HCI + ML and that we are intersted in.
+
 ## Conference Papers 
 
 ### ACM Annual Meeting of the Intelligent User Interfaces Community (IUI)
@@ -38,6 +40,7 @@ There are also some awesome course resources discussing Intelligent User Interfa
 |------|-------------------------------|------|
 | Carnegie Mellon University | [Human-AI Interaction](http://humanaiclass.org/)| Jeff Bigham and Joseph Seering|
 | Aalto University| [Intelligent User Interfaces Studio](https://mycourses.aalto.fi/course/view.php?id=20975)| Kashyap Todi and Sunjun Kim|
+| Penn State University| [Crowdsourcing & Crowd-AI Systems](http://crowdaiclass.org/)|Kenneth Huang|
 
 
 
