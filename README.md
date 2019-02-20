@@ -1,6 +1,6 @@
 # Awesome HCI + ML List
 
-Curator: Bryan Wang ([Website](http://www.dgp.toronto.edu/~bryanw/)).
+Curator: Bryan Wang ([Website](http://www.dgp.toronto.edu/~bryanw/)), Joe Hsu.
 
 There has been a rising trend of applying __deep learning__ models, or the buzzword __AI__, to solve __Human-Computer Interaction__ problems. 
 
