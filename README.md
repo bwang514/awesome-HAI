@@ -1,6 +1,6 @@
 # Awesome HCI + DL List
 
-Curators: Bryan Wang ([Website](http://www.dgp.toronto.edu/~bryanw/)), Chao-Chun (Joe) Hsu and Zhicong (Caleb) Lu ([Website](http://luzc08.github.io//))
+Curators: Bryan Wang ([Website](http://www.dgp.toronto.edu/~bryanw/)), Chao-Chun Hsu and Zhicong Lu ([Website](http://luzc08.github.io//))
 
 There has been a rising trend of applying __Deep Learning__ models, or the buzzword __AI__, to solve __Human-Computer Interaction__ problems. 
 
