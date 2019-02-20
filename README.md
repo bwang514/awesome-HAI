@@ -2,7 +2,7 @@
 
 Curator: Bryan Wang ([Website](http://www.dgp.toronto.edu/~bryanw/)), Joe Hsu.
 
-There has been a rising trend of applying __deep learning__ models, or the buzzword __AI__, to solve __Human-Computer Interaction__ problems. 
+There has been a rising trend of applying __Deep Learning__ models, or the buzzword __AI__, to solve __Human-Computer Interaction__ problems. 
 
 However, it seems like so far there is no single entry to all these HCI + DL/ Human-AI Interaction resources. That's why we started to maintain this list. 
 
