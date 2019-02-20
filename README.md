@@ -19,7 +19,6 @@ This list will broadly include the articles/courses that are related to HCI + AI
 
 | Year |  Paper |
 |------|-------------------------------------------------------
-| 2018 | [Vibrosight: Long-Range Vibrometry for Smart Environment Sensing](http://yangzhang.me/research/Vibrosight/Vibrosight.pdf) 
 | 2018 | [Ubicoustics: Plug-and-Play Acoustic Activity Recognition](http://www.gierad.com/assets/ubicoustics/ubicoustics.pdf) | 
 | 2018 | [Lip-Interact: Improving Mobile Device Interaction with Silent Speech Commands](https://dl.acm.org/citation.cfm?id=3242599) | 
 | 2018 | [The Exploratory Labeling Assistant: Mixed-Initiative Label Curation with Large Document Collections](https://dl.acm.org/citation.cfm?id=3242596) | 
