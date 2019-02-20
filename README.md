@@ -40,7 +40,7 @@ This list will broadly include the articles/courses that are related to HCI + AI
 
 | Year |  Paper |
 |------|-------------------------------------------------------|
-|2019| To be added|
+|2018| [Fact or Fiction](https://dl.acm.org/citation.cfm?id=3274380)|
 
 ## Courses
 There are also some awesome course resources discussing Intelligent User Interface/ Human-AI interaction
