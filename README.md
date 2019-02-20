@@ -6,7 +6,7 @@ There has been a rising trend of applying new __machine learning__/__deep learni
 
 As a grad student studying HCI, I want to know _how_ these papers select models and apply them to _what_ kind of scenarios. Or what are the conceptual ideas on how human could better interact with intelligent systems. 
 
-However, it seems like so far there is no single entry to all these HCI + ML/ Human-AI Interaction resources. Therefore I started to maintain this awesome list on 2/19/2019. 
+However, it seems like so far there is no single entry to all these HCI + ML/ Human-AI Interaction resources. Therefore I started to maintain this list on 2/19/2019. 
 
 ## Conference Papers 
 
