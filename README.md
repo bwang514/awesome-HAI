@@ -38,6 +38,12 @@ This list will broadly include the articles/courses that are related to HCI + AI
 | 2018 | [The Exploratory Labeling Assistant: Mixed-Initiative Label Curation with Large Document Collections](https://dl.acm.org/citation.cfm?id=3242596) | 
 | 2018 | [Adasa: A Conversational In-Vehicle Digital Assistant for Advanced Driver Assistance Features](https://dl.acm.org/citation.cfm?id=3242593) | 
 
+### ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)
+
+| Year |  Paper |
+|------|-------------------------------------------------------|
+|2019| To be added|
+
 ## Courses
 There are also some awesome course resources discussing Intelligent User Interface/ Human-AI interaction
 
