@@ -14,7 +14,6 @@ This list will broadly include the articles/courses that are related to HCI + AI
 | Year |  Paper | 
 |------|-------------------------------|
 | 2018 | [To be added](https://dl.acm.org/citation.cfm?id=3242593) | 
-| 2018 | [Creative Writing with a Machine in the Loop: Case Studies on Slogans and Stories](https://homes.cs.washington.edu/~eaclark7/www/iui2018.pdf) |
 
 ### ACM User Interface and Software Technology (UIST)
 
@@ -31,7 +30,16 @@ This list will broadly include the articles/courses that are related to HCI + AI
 | Year |  Paper | 
 |------|-------------------------------|
 | 2019 | [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf) | 
-
+|2018|  [DeepWriting: Making Digital Ink Editable via Deep Generative Modeling](https://dl.acm.org/citation.cfm?id=3173779)
+|2018|  [ExtVision: Augmentation of Visual Experiences with Generation of Context Images for a Peripheral Vision Using Deep Neural Network](https://dl.acm.org/citation.cfm?id=3174001)
+|2018|  [Deep Thermal Imaging: Proximate Material Type Recognition in the Wild through Deep Learning of Spatial Surface Temperature Patterns](https://arxiv.org/abs/1803.02310)
+| 2018|  [Predicting Human Performance in Vertical Menu Selection Using Deep Learning ](https://dl.acm.org/citation.cfm?id=3173603)
+| 2018|  [Touch Your Heart: A Tone-aware Chatbot for Customer Care on Social Media](https://dl.acm.org/citation.cfm?id=3173989)
+| 2018|  [Mapping Machine Learning Advances from HCI Research to Reveal Starting Places for Design Innovation](https://dl.acm.org/citation.cfm?id=3173704)
+|2018|  [Drunk User Interfaces: Determining Blood Alcohol Level through Everyday Smartphone Tasks](https://dl.acm.org/citation.cfm?id=3173808)
+|2018|  [Analysis and Modeling of Grid Performance on Touchscreen Mobile Devices](https://dl.acm.org/citation.cfm?id=3173862)
+|2018|  [“Trust Us”: Mobile Phone Use Patterns Can Predict Individual Trust Propensity](https://dl.acm.org/citation.cfm?id=3173904)
+|2018|  [Norms Matter: Contrasting Social Support Around Behavior Change in Online Weight Loss Communities](https://dl.acm.org/citation.cfm?id=3173574.3174240)
 
 
 ## Courses
@@ -42,7 +50,6 @@ There are also some awesome course resources discussing Intelligent User Interfa
 | Carnegie Mellon University | [Human-AI Interaction](http://humanaiclass.org/)| Jeff Bigham and Joseph Seering|
 | Aalto University| [Intelligent User Interfaces Studio](https://mycourses.aalto.fi/course/view.php?id=20975)| Kashyap Todi and Sunjun Kim|
 | Penn State University| [Crowdsourcing & Crowd-AI Systems](http://crowdaiclass.org/)|Kenneth Huang|
-| University of Colorado Boulder| [Human-centered Machine Learning](https://chenhaot.com/courses/hcml/home.html)|Chenhao Tan|
 
 
 
