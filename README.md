@@ -2,11 +2,11 @@
 
 Curator: Bryan Wang ([Website](http://www.dgp.toronto.edu/~bryanw/)).
 
-There has been a rising trend of applying new __machine learning__/__deep learning__ models, or the buzzword __AI__, to solve __Human-Computer Interaction__ problems. 
+There has been a rising trend of applying __deep learning__ models, or the buzzword __AI__, to solve __Human-Computer Interaction__ problems. 
 
-However, it seems like so far there is no single entry to all these HCI + ML/ Human-AI Interaction resources. That's why we started to maintain this list. 
+However, it seems like so far there is no single entry to all these HCI + DL/ Human-AI Interaction resources. That's why we started to maintain this list. 
 
-This list will broadly include the articles/courses that are related to HCI + AI or HCI + ML and that we are intersted in.
+This list will broadly include the articles/courses that are related to HCI + AI or HCI + DL and that we are intersted in.
 
 ## Conference Papers 
 
