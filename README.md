@@ -12,6 +12,9 @@ This list will broadly include the articles/courses that are related to HCI + AI
 | Year |  Paper | 
 |------|-------------------------------|
 | 2018 | [Creative Writing with a Machine in the Loop: Case Studies on Slogans and Stories](https://homes.cs.washington.edu/~eaclark7/www/iui2018.pdf) | 
+|2018|[Detecting Memory-Based Interaction Obstacles with a
+Recurrent Neural Model of User Behavior](https://dl.acm.org/citation.cfm?id=3173006)|
+
 
 ### ACM Conference on Human Factors in Computing Systems (CHI)
 | Year |  Paper | 
