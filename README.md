@@ -1,7 +1,5 @@
 # Awesome HCI + DL List
 
-Curators: Bryan Wang ([Website](http://www.dgp.toronto.edu/~bryanw/)), Chao-Chun Hsu and Zhicong Lu ([Website](http://www.cs.toronto.edu/~luzhc/))
-
 There has been a rising trend of applying __Deep Learning__, or the buzzword __AI__, to solve __Human-Computer Interaction__ problems. However, it seems like so far there is no single entry to all these HCI + DL/ Human-AI Interaction resources. That's why we started to maintain this list. 
 
 This list will broadly include the articles/courses that are related to HCI + AI or HCI + DL and that of our interests.
