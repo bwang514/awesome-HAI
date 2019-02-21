@@ -1,6 +1,8 @@
 # Awesome HCI + DL List
 
-There is a rising trend of applying __Deep Learning__, or __AI__, to solve __Human-Computer Interaction__ problems. However, there is no single entry to all these awesome HCI + DL/ Human-AI Interaction resources so far. That's why we started to maintain this list!
+There has been a rising trend of applying __Deep Learning__, or __AI__, to solve __Human-Computer Interaction__ problems. And it's awesome to see _what problems_ HCI researchers are solving with deep learning and what _challenges_ that occur when designing AI-infused interfaces! 
+
+However, there seems to be no curation for all these awesome HCI + DL/ Human-AI Interaction resources so far. That's why we started to maintain this list!
 
 ## Conference Papers 
 
