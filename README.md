@@ -51,6 +51,7 @@ This list will broadly include the articles/courses that are related to HCI + AI
 | Year |  Paper |
 |------|-------------------------------------------------------|
 |2018| [Fact or Fiction](https://dl.acm.org/citation.cfm?id=3274380)|
+|2018| [Data-Driven Proactive Policy Assurance of Post Quality in Community q&a Sites](https://dl.acm.org/citation.cfm?id=3274302)
 
 ## Courses
 There are also some awesome course resources discussing Intelligent User Interface/ Human-AI interaction
