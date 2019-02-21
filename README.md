@@ -39,6 +39,7 @@ This list will broadly include the articles/courses that are related to HCI + AI
 ### ACM Annual Meeting of the Intelligent User Interfaces Community (IUI)
 | Year |  Paper | 
 |------|-------------------------------|
+| 2018 | [AlterEgo: A Personalized Wearable Silent Speech Interface](https://dl.acm.org/citation.cfm?id=3172977)
 | 2018 | [Creative Writing with a Machine in the Loop: Case Studies on Slogans and Stories](https://homes.cs.washington.edu/~eaclark7/www/iui2018.pdf) | 
 |2018|[Detecting Memory-Based Interaction Obstacles with a Recurrent Neural Model of User Behavior](https://dl.acm.org/citation.cfm?id=3173006)|
 |2018|[User Modelling for Avoiding Overfitting in Interactive Knowledge Elicitation for Prediction](https://dl.acm.org/citation.cfm?id=3172989)
