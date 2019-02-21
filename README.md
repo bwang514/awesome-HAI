@@ -21,6 +21,8 @@ This list will broadly include the articles/courses that are related to HCI + AI
 |2018|  [Analysis and Modeling of Grid Performance on Touchscreen Mobile Devices](https://dl.acm.org/citation.cfm?id=3173862)
 |2018|  [“Trust Us”: Mobile Phone Use Patterns Can Predict Individual Trust Propensity](https://dl.acm.org/citation.cfm?id=3173904)
 |2018|  [Norms Matter: Contrasting Social Support Around Behavior Change in Online Weight Loss Communities](https://dl.acm.org/citation.cfm?id=3173574.3174240)
+|2017 |[UX Design Innovation: Challenges for Working with Machine Learning as a Design Material](https://dl.acm.org/citation.cfm?id=3025739)|
+
 
 ### ACM User Interface and Software Technology (UIST)
 
