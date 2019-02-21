@@ -30,6 +30,9 @@ This list will broadly include the articles/courses that are related to HCI + AI
 | 2018 | [Lip-Interact: Improving Mobile Device Interaction with Silent Speech Commands](https://dl.acm.org/citation.cfm?id=3242599) | 
 | 2018 | [The Exploratory Labeling Assistant: Mixed-Initiative Label Curation with Large Document Collections](https://dl.acm.org/citation.cfm?id=3242596) | 
 | 2018 | [Adasa: A Conversational In-Vehicle Digital Assistant for Advanced Driver Assistance Features](https://dl.acm.org/citation.cfm?id=3242593) | 
+| 2017 | [Everyday Eye Contact Detection Using Unsupervised Gaze Target Discovery](https://dl.acm.org/citation.cfm?id=3126594.3126614) | 
+| 2017 | [Learning Visual Importance for Graphic Designs and Data Visualizations](https://arxiv.org/pdf/1708.02660.pdf)|
+| 2017 | [Rico: A Mobile App Dataset for Building Data-Driven Design Applications](https://https://dl.acm.org/citation.cfm?id=3126594.3126651)|
 
 ### ACM Annual Meeting of the Intelligent User Interfaces Community (IUI)
 | Year |  Paper | 
