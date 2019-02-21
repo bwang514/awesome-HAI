@@ -8,13 +8,6 @@ This list will broadly include the articles/courses that are related to HCI + AI
 
 ## Conference Papers 
 
-### ACM Annual Meeting of the Intelligent User Interfaces Community (IUI)
-| Year |  Paper | 
-|------|-------------------------------|
-| 2018 | [Creative Writing with a Machine in the Loop: Case Studies on Slogans and Stories](https://homes.cs.washington.edu/~eaclark7/www/iui2018.pdf) | 
-|2018|[Detecting Memory-Based Interaction Obstacles with a Recurrent Neural Model of User Behavior](https://dl.acm.org/citation.cfm?id=3173006)|
-
-
 ### ACM Conference on Human Factors in Computing Systems (CHI)
 | Year |  Paper | 
 |------|-------------------------------|
@@ -37,6 +30,16 @@ This list will broadly include the articles/courses that are related to HCI + AI
 | 2018 | [Lip-Interact: Improving Mobile Device Interaction with Silent Speech Commands](https://dl.acm.org/citation.cfm?id=3242599) | 
 | 2018 | [The Exploratory Labeling Assistant: Mixed-Initiative Label Curation with Large Document Collections](https://dl.acm.org/citation.cfm?id=3242596) | 
 | 2018 | [Adasa: A Conversational In-Vehicle Digital Assistant for Advanced Driver Assistance Features](https://dl.acm.org/citation.cfm?id=3242593) | 
+
+### ACM Annual Meeting of the Intelligent User Interfaces Community (IUI)
+| Year |  Paper | 
+|------|-------------------------------|
+| 2018 | [Creative Writing with a Machine in the Loop: Case Studies on Slogans and Stories](https://homes.cs.washington.edu/~eaclark7/www/iui2018.pdf) | 
+|2018|[Detecting Memory-Based Interaction Obstacles with a Recurrent Neural Model of User Behavior](https://dl.acm.org/citation.cfm?id=3173006)|
+|2018|[User Modelling for Avoiding Overfitting in Interactive Knowledge Elicitation for Prediction](https://dl.acm.org/citation.cfm?id=3172989)
+|2018|[Every Little Movement Has a Meaning of Its Own: Using Past Mouse Movements to Predict the Next Interaction](https://dl.acm.org/citation.cfm?id=3173002)
+|2018|[An Active Tangible User Interface Framework for Teaching and Learning Artificial Intelligence](https://dl.acm.org/citation.cfm?id=3172976)|
+
 
 ### ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)
 
