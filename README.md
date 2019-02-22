@@ -7,7 +7,6 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 
 # Table of Contents 
 - [Research Papers](#research-papers)
-  - [ACM Conference on Human Factors in Computing Systems (CHI)](ACM-Conference-on-Human-Factors-in-Computing-Systems-(CHI)) 
 - [Courses](#courses)
   
 ## Research Papers 
