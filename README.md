@@ -1,11 +1,16 @@
-# Awesome HCI + DL List
+# Awesome HCI + DL Paper List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 
 There has been a rising trend of applying __Deep Learning__, or __AI__, to solve __Human-Computer Interaction__ problems. And it's awesome to see _what problems_ HCI researchers are solving with deep learning and what _challenges_ that occur when designing AI-infused interfaces! 
 
-However, there seems to be no curation for all these awesome HCI + DL/ Human-AI Interaction resources so far. That's why we started to maintain this list!
+However, there seems to be no curation for all these awesome HCI + DL/ Human-AI Interaction resources so far. That's why we started to curate this list!
 
-## Conference Papers 
-
+# Table of Contents 
+- [Research Papers](#research-papers)
+  - [ACM Conference on Human Factors in Computing Systems (CHI)](ACM-Conference-on-Human-Factors-in-Computing-Systems-(CHI)) 
+- [Courses](#courses)
+  
+## Research Papers 
 ### ACM Conference on Human Factors in Computing Systems (CHI)
 | Year |  Paper | 
 |------|-------------------------------|
@@ -64,6 +69,9 @@ There are also some awesome course resources discussing Intelligent User Interfa
 
 
 
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 
 
