@@ -15,6 +15,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 |------|-------------------------------|
 | 2019 | [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf) | 
 |2018|  [DeepWriting: Making Digital Ink Editable via Deep Generative Modeling](https://dl.acm.org/citation.cfm?id=3173779)
+|2018|  [Evorus: A Crowd-powered Conversational AssistantBuilt to Automate Itself Over Time](https://crowd.ist.psu.edu/pdf/2018/2018_chi.pdf)
 |2018|  [ExtVision: Augmentation of Visual Experiences with Generation of Context Images for a Peripheral Vision Using Deep Neural Network](https://dl.acm.org/citation.cfm?id=3174001)
 |2018|  [Deep Thermal Imaging: Proximate Material Type Recognition in the Wild through Deep Learning of Spatial Surface Temperature Patterns](https://arxiv.org/abs/1803.02310)
 | 2018|  [Predicting Human Performance in Vertical Menu Selection Using Deep Learning ](https://dl.acm.org/citation.cfm?id=3173603)
