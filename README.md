@@ -5,7 +5,7 @@ There has been a rising trend of applying __Deep Learning__, or __AI__, to solve
 
 However, there seems to be no curation for all these awesome HCI + DL/ Human-AI Interaction resources so far. That's why we started to curate this list!
 
-# Table of Contents 
+## Table of Contents 
 - [Research Papers](#research-papers)
 - [Courses](#courses)
   
@@ -67,6 +67,9 @@ There are also some awesome course resources discussing Intelligent User Interfa
 | University of Colorado Boulder| [Human-centered Machine Learning](https://chenhaot.com/courses/hcml/home.html)|Chenhao Tan|
 
 
+
+## Curators
+[Bryan Wang](http://www.dgp.toronto.edu/~bryanw) (University of Toronto), Joe Hsu (Academia Sinica), [Caleb Lu](http://luzc08.github.io/) (University of Toronto)
 
 ## License
 
