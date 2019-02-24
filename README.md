@@ -73,7 +73,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2017 | [RDeepSense: Reliable Deep Mobile Computing Models with Uncertainty Estimations](https://doi.org/10.1145/3161181)
 | 2017 | [Mitigating Bystander Privacy Concerns in Egocentric Activity Recognition with Deep Learning and Intentional Image Degradation](https://doi.org/10.1145/3161190)
 | 2017 | [Low-resource Multi-task Audio Sensing for Mobile and Embedded Devices via Shared Deep Neural Network Representations](https://doi.org/10.1145/3131895)
-| 2017 | [. Ensembles of Deep LSTM Learners for Activity Recognition using Wearables](https://doi.org/10.1145/3090076)
+| 2017 | [Ensembles of Deep LSTM Learners for Activity Recognition using Wearables](https://doi.org/10.1145/3090076)
 
 
 ### ACM International Symposium on Wearable Computers (ISWC) 
