@@ -1,19 +1,19 @@
 # Awesome HCI + DL [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-There has been a rising trend of applying __Deep Learning__, or __AI__, to solve __Human-Computer Interaction__ problems. And it's awesome to see _what problems_ HCI researchers are solving with deep learning and what _challenges_ that occur when designing AI-infused interfaces! 
+There has been a rising trend of applying __Deep Learning__, or __AI__, to solve __Human-Computer Interaction__ problems. And it's awesome to see _what problems_ HCI researchers are solving with deep learning and what _challenges_ that occur when designing AI-infused interfaces!
 
 However, there seems to be no curation for all these awesome HCI + DL/ Human-AI Interaction resources so far. That's why we do this!
 
-## Table of Contents 
+## Table of Contents
 - [Research Papers](#research-papers)
 - [Courses](#courses)
-  
-## Research Papers 
+
+## Research Papers
 ### ACM Conference on Human Factors in Computing Systems (CHI)
-| Year |  Paper | 
+| Year |  Paper |
 |------|-------------------------------|
-| 2019 | [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf) | 
+| 2019 | [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf) |
 |2018|  [DeepWriting: Making Digital Ink Editable via Deep Generative Modeling](https://dl.acm.org/citation.cfm?id=3173779)
 |2018|  [Evorus: A Crowd-powered Conversational AssistantBuilt to Automate Itself Over Time](https://crowd.ist.psu.edu/pdf/2018/2018_chi.pdf)
 |2018|  [ExtVision: Augmentation of Visual Experiences with Generation of Context Images for a Peripheral Vision Using Deep Neural Network](https://dl.acm.org/citation.cfm?id=3174001)
@@ -32,19 +32,19 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 
 | Year |  Paper |
 |------|-------------------------------------------------------
-| 2018 | [Ubicoustics: Plug-and-Play Acoustic Activity Recognition](http://www.gierad.com/assets/ubicoustics/ubicoustics.pdf) | 
-| 2018 | [Lip-Interact: Improving Mobile Device Interaction with Silent Speech Commands](https://dl.acm.org/citation.cfm?id=3242599) | 
-| 2018 | [The Exploratory Labeling Assistant: Mixed-Initiative Label Curation with Large Document Collections](https://dl.acm.org/citation.cfm?id=3242596) | 
-| 2018 | [Adasa: A Conversational In-Vehicle Digital Assistant for Advanced Driver Assistance Features](https://dl.acm.org/citation.cfm?id=3242593) | 
-| 2017 | [Everyday Eye Contact Detection Using Unsupervised Gaze Target Discovery](https://dl.acm.org/citation.cfm?id=3126594.3126614) | 
+| 2018 | [Ubicoustics: Plug-and-Play Acoustic Activity Recognition](http://www.gierad.com/assets/ubicoustics/ubicoustics.pdf) |
+| 2018 | [Lip-Interact: Improving Mobile Device Interaction with Silent Speech Commands](https://dl.acm.org/citation.cfm?id=3242599) |
+| 2018 | [The Exploratory Labeling Assistant: Mixed-Initiative Label Curation with Large Document Collections](https://dl.acm.org/citation.cfm?id=3242596) |
+| 2018 | [Adasa: A Conversational In-Vehicle Digital Assistant for Advanced Driver Assistance Features](https://dl.acm.org/citation.cfm?id=3242593) |
+| 2017 | [Everyday Eye Contact Detection Using Unsupervised Gaze Target Discovery](https://dl.acm.org/citation.cfm?id=3126594.3126614) |
 | 2017 | [Learning Visual Importance for Graphic Designs and Data Visualizations](https://arxiv.org/pdf/1708.02660.pdf)|
 | 2017 | [Rico: A Mobile App Dataset for Building Data-Driven Design Applications](https://https://dl.acm.org/citation.cfm?id=3126594.3126651)|
 
 ### ACM Annual Meeting of the Intelligent User Interfaces Community (IUI)
-| Year |  Paper | 
+| Year |  Paper |
 |------|-------------------------------|
 | 2018 | [AlterEgo: A Personalized Wearable Silent Speech Interface](https://dl.acm.org/citation.cfm?id=3172977)
-| 2018 | [Creative Writing with a Machine in the Loop: Case Studies on Slogans and Stories](https://homes.cs.washington.edu/~eaclark7/www/iui2018.pdf) | 
+| 2018 | [Creative Writing with a Machine in the Loop: Case Studies on Slogans and Stories](https://homes.cs.washington.edu/~eaclark7/www/iui2018.pdf) |
 |2018|[Detecting Memory-Based Interaction Obstacles with a Recurrent Neural Model of User Behavior](https://dl.acm.org/citation.cfm?id=3173006)|
 |2018|[User Modelling for Avoiding Overfitting in Interactive Knowledge Elicitation for Prediction](https://dl.acm.org/citation.cfm?id=3172989)
 |2018|[Every Little Movement Has a Meaning of Its Own: Using Past Mouse Movements to Predict the Next Interaction](https://dl.acm.org/citation.cfm?id=3173002)
@@ -57,6 +57,32 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 |------|-------------------------------------------------------|
 |2018| [Fact or Fiction](https://dl.acm.org/citation.cfm?id=3274380)|
 |2018| [Data-Driven Proactive Policy Assurance of Post Quality in Community q&a Sites](https://dl.acm.org/citation.cfm?id=3274302)
+
+
+### ACM UbiComp (Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) since 2017)
+| Year |  Paper |
+|------|-------------------------------|
+| 2018 | [DeepType: On-Device Deep Learning for Input Personalization Service with Minimal Privacy Concern](https://doi.org/10.1145/3287075)
+| 2018 | [Performance Characterization of Deep Learning Models for Breathing-based Authentication on Resource-Constrained Devices](https://doi.org/10.1145/3287036)
+| 2018 | [Online Deep Ensemble Learning for Predicting Citywide Human Mobility](https://doi.org/10.1145/3264915)
+| 2018 | [Deep Room Recognition Using Inaudible Echos](https://doi.org/10.1145/3264945)
+| 2018 | [SenseGAN: Enabling Deep Learning for Internet of Things with a Semi-Supervised Framework](https://doi.org/10.1145/3264954)
+| 2018 | [DeActive: Scaling Activity Recognition with Active Deep Learning](https://doi.org/10.1145/3214269)
+| 2018 | [Deep ROI-Based Modeling for Urban Human Mobility Prediction](https://doi.org/10.1145/3191746)
+| 2017 | [Multimodal Deep Learning for Activity and Context Recognition](https://doi.org/10.1145/3161174)
+| 2017 | [RDeepSense: Reliable Deep Mobile Computing Models with Uncertainty Estimations](https://doi.org/10.1145/3161181)
+| 2017 | [Mitigating Bystander Privacy Concerns in Egocentric Activity Recognition with Deep Learning and Intentional Image Degradation](https://doi.org/10.1145/3161190)
+| 2017 | [Low-resource Multi-task Audio Sensing for Mobile and Embedded Devices via Shared Deep Neural Network Representations](https://doi.org/10.1145/3131895)
+| 2017 | [. Ensembles of Deep LSTM Learners for Activity Recognition using Wearables](https://doi.org/10.1145/3090076)
+
+
+### ACM ISWC (ACM International Symposium on Wearable Computers)
+| Year |  Paper |
+|------|-------------------------------|
+| 2018 | [Understanding and improving recurrent networks for human activity recognition by continuous attention](https://doi.org/10.1145/3267242.3267286)
+| 2018 | [On attention models for human activity recognition](https://doi.org/10.1145/3267242.3267287)
+| 2018 | [Deepauth: in-situ authentication for smartwatches via deeply learned behavioural biometrics](https://doi.org/10.1145/3267242.3267252)
+
 
 ## Courses
 There are also some awesome course resources discussing Intelligent User Interface/ Human-AI interaction
@@ -76,6 +102,3 @@ There are also some awesome course resources discussing Intelligent User Interfa
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-
-
