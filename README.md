@@ -59,7 +59,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 |2018| [Data-Driven Proactive Policy Assurance of Post Quality in Community q&a Sites](https://dl.acm.org/citation.cfm?id=3274302)
 
 
-### ACM UbiComp (Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) since 2017)
+### ACM Proceedings of Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)
 | Year |  Paper |
 |------|-------------------------------|
 | 2018 | [DeepType: On-Device Deep Learning for Input Personalization Service with Minimal Privacy Concern](https://doi.org/10.1145/3287075)
@@ -76,7 +76,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2017 | [. Ensembles of Deep LSTM Learners for Activity Recognition using Wearables](https://doi.org/10.1145/3090076)
 
 
-### ACM ISWC (ACM International Symposium on Wearable Computers)
+### ACM International Symposium on Wearable Computers (ISWC) 
 | Year |  Paper |
 |------|-------------------------------|
 | 2018 | [Understanding and improving recurrent networks for human activity recognition by continuous attention](https://doi.org/10.1145/3267242.3267286)
