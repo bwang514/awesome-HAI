@@ -59,7 +59,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 |2018| [Data-Driven Proactive Policy Assurance of Post Quality in Community q&a Sites](https://dl.acm.org/citation.cfm?id=3274302)
 
 
-### ACM Proceedings of Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)
+### ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)
 | Year |  Paper |
 |------|-------------------------------|
 | 2018 | [DeepType: On-Device Deep Learning for Input Personalization Service with Minimal Privacy Concern](https://doi.org/10.1145/3287075)
