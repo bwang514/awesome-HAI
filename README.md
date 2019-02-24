@@ -28,7 +28,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 |2017 |[UX Design Innovation: Challenges for Working with Machine Learning as a Design Material](https://dl.acm.org/citation.cfm?id=3025739)|
 
 
-### ACM User Interface and Software Technology (UIST)
+### ACM User Interface and Software Technology Symposium (UIST)
 
 | Year |  Paper |
 |------|-------------------------------------------------------
