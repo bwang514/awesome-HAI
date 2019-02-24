@@ -82,6 +82,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2018 | [Understanding and improving recurrent networks for human activity recognition by continuous attention](https://doi.org/10.1145/3267242.3267286)
 | 2018 | [On attention models for human activity recognition](https://doi.org/10.1145/3267242.3267287)
 | 2018 | [Deepauth: in-situ authentication for smartwatches via deeply learned behavioural biometrics](https://doi.org/10.1145/3267242.3267252)
+| 2017 | [CNN-based sensor fusion techniques for multimodal human activity recognition](https://doi.org/10.1145/3123021.3123046)
 
 
 ## Courses
