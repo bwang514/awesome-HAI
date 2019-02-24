@@ -76,7 +76,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2017 | [Ensembles of Deep LSTM Learners for Activity Recognition using Wearables](https://doi.org/10.1145/3090076)
 
 
-### ACM International Symposium on Wearable Computers (ISWC) 
+### ACM International Symposium on Wearable Computers (ISWC)
 | Year |  Paper |
 |------|-------------------------------|
 | 2018 | [Understanding and improving recurrent networks for human activity recognition by continuous attention](https://doi.org/10.1145/3267242.3267286)
@@ -97,7 +97,7 @@ There are also some awesome course resources discussing Intelligent User Interfa
 
 
 ## Curators
-[Bryan Wang](http://www.dgp.toronto.edu/~bryanw) (University of Toronto), Joe Hsu (Academia Sinica), [Caleb Lu](http://luzc08.github.io/) (University of Toronto)
+[Bryan Wang](http://www.dgp.toronto.edu/~bryanw) (University of Toronto), Joe Hsu (Academia Sinica), [Caleb Lu](http://luzc08.github.io/) (University of Toronto), [Mingming Fan](http://mingmingfan.com/) (University of Toronto)
 
 ## License
 
