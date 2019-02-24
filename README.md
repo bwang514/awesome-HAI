@@ -11,6 +11,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 
 ## Research Papers ##
 ### ACM Conference on Human Factors in Computing Systems (CHI) ###
+
 | Year |  Paper |
 |------|-------------------------------|
 | 2019 | [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf) |
@@ -27,7 +28,6 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 |2018|  [Norms Matter: Contrasting Social Support Around Behavior Change in Online Weight Loss Communities](https://dl.acm.org/citation.cfm?id=3173574.3174240)
 |2017 |[UX Design Innovation: Challenges for Working with Machine Learning as a Design Material](https://dl.acm.org/citation.cfm?id=3025739)|
 
----
 
 ### ACM User Interface and Software Technology Symposium (UIST) ###
 
@@ -40,8 +40,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2017 | [Everyday Eye Contact Detection Using Unsupervised Gaze Target Discovery](https://dl.acm.org/citation.cfm?id=3126594.3126614) |
 | 2017 | [Learning Visual Importance for Graphic Designs and Data Visualizations](https://arxiv.org/pdf/1708.02660.pdf)|
 | 2017 | [Rico: A Mobile App Dataset for Building Data-Driven Design Applications](https://https://dl.acm.org/citation.cfm?id=3126594.3126651)|
-
----
+ 
  
 ### ACM Annual Meeting of the Intelligent User Interfaces Community (IUI) ###
 | Year |  Paper | 
@@ -53,7 +52,6 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 |2018|[Every Little Movement Has a Meaning of Its Own: Using Past Mouse Movements to Predict the Next Interaction](https://dl.acm.org/citation.cfm?id=3173002)
 |2018|[An Active Tangible User Interface Framework for Teaching and Learning Artificial Intelligence](https://dl.acm.org/citation.cfm?id=3172976)|
 
----
 
 
 ### ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW) ###
@@ -63,7 +61,6 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 |2018| [Fact or Fiction](https://dl.acm.org/citation.cfm?id=3274380)|
 |2018| [Data-Driven Proactive Policy Assurance of Post Quality in Community q&a Sites](https://dl.acm.org/citation.cfm?id=3274302)
 
----
 
 
 ### ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp) ###
@@ -82,7 +79,6 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2017 | [Low-resource Multi-task Audio Sensing for Mobile and Embedded Devices via Shared Deep Neural Network Representations](https://doi.org/10.1145/3131895)
 | 2017 | [Ensembles of Deep LSTM Learners for Activity Recognition using Wearables](https://doi.org/10.1145/3090076)
 
----
 
 
 ### ACM International Symposium on Wearable Computers (ISWC) ###
@@ -93,7 +89,6 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2018 | [Deepauth: in-situ authentication for smartwatches via deeply learned behavioural biometrics](https://doi.org/10.1145/3267242.3267252)
 | 2017 | [CNN-based sensor fusion techniques for multimodal human activity recognition](https://doi.org/10.1145/3123021.3123046)
 
----
 
 ### IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE InfoVis) ###
 | Year |  Paper |
@@ -102,7 +97,6 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2019 | [Evaluating 'Graphical Perception' with CNNs](https://doi.org/10.1109/TVCG.2018.2865138)
 | 2018 | [LSTMVis: A Tool for Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks](https://doi.org/10.1109/TVCG.2017.2744158)
 
----
 
 ## Courses ##
 There are also some awesome course resources discussing Intelligent User Interface/ Human-AI interaction
