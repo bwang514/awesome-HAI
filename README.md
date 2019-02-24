@@ -85,6 +85,13 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2017 | [CNN-based sensor fusion techniques for multimodal human activity recognition](https://doi.org/10.1145/3123021.3123046)
 
 
+### IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE InfoVis) ###
+| Year |  Paper |
+|------|-------------------------------|
+| 2019 | [Seq2seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models](https://doi.org/10.1109/TVCG.2018.2865044)
+| 2019 | [Evaluating 'Graphical Perception' with CNNs](https://doi.org/10.1109/TVCG.2018.2865138)
+| 2018 | [LSTMVis: A Tool for Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks](https://doi.org/10.1109/TVCG.2017.2744158)
+
 ## Courses
 There are also some awesome course resources discussing Intelligent User Interface/ Human-AI interaction
 
@@ -98,7 +105,7 @@ There are also some awesome course resources discussing Intelligent User Interfa
 
 
 ## Curators
-[Bryan Wang](http://www.dgp.toronto.edu/~bryanw) (University of Toronto), Joe Hsu (Academia Sinica), [Caleb Lu](http://luzc08.github.io/) (University of Toronto), [Mingming Fan](http://mingmingfan.com/) (University of Toronto)
+[Bryan Wang](http://www.dgp.toronto.edu/~bryanw) (University of Toronto), Joe Hsu (Academia Sinica), [Caleb Lu](http://luzc08.github.io/) (University of Toronto), [Mingming Fan](http://mingmingfan.com/) (University of Toronto), Jacob Ritchie (University of Toronto)
 
 ## License
 
