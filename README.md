@@ -1,16 +1,16 @@
-# Awesome HCI + DL [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome HCI + DL [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) #
 
 
 There has been a rising trend of applying __Deep Learning__, or __AI__, to solve __Human-Computer Interaction__ problems. And it's awesome to see _what problems_ HCI researchers are solving with deep learning and what _challenges_ that occur when designing AI-infused interfaces!
 
 However, there seems to be no curation for all these awesome HCI + DL/ Human-AI Interaction resources so far. That's why we do this!
 
-## Table of Contents
+## Table of Contents ##
 - [Research Papers](#research-papers)
 - [Courses](#courses)
 
-## Research Papers
-### ACM Conference on Human Factors in Computing Systems (CHI)
+## Research Papers ##
+### ACM Conference on Human Factors in Computing Systems (CHI) ###
 | Year |  Paper |
 |------|-------------------------------|
 | 2019 | [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf) |
@@ -27,9 +27,9 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 |2018|  [Norms Matter: Contrasting Social Support Around Behavior Change in Online Weight Loss Communities](https://dl.acm.org/citation.cfm?id=3173574.3174240)
 |2017 |[UX Design Innovation: Challenges for Working with Machine Learning as a Design Material](https://dl.acm.org/citation.cfm?id=3025739)|
 
----------------
+---
 
-### ACM User Interface and Software Technology Symposium (UIST)
+### ACM User Interface and Software Technology Symposium (UIST) ###
 
 | Year |  Paper |
 |------|-------------------------------------------------------
@@ -41,8 +41,10 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2017 | [Learning Visual Importance for Graphic Designs and Data Visualizations](https://arxiv.org/pdf/1708.02660.pdf)|
 | 2017 | [Rico: A Mobile App Dataset for Building Data-Driven Design Applications](https://https://dl.acm.org/citation.cfm?id=3126594.3126651)|
 
-### ACM Annual Meeting of the Intelligent User Interfaces Community (IUI)
-| Year |  Paper |
+---
+ 
+### ACM Annual Meeting of the Intelligent User Interfaces Community (IUI) ###
+| Year |  Paper | 
 |------|-------------------------------|
 | 2018 | [AlterEgo: A Personalized Wearable Silent Speech Interface](https://dl.acm.org/citation.cfm?id=3172977)
 | 2018 | [Creative Writing with a Machine in the Loop: Case Studies on Slogans and Stories](https://homes.cs.washington.edu/~eaclark7/www/iui2018.pdf) |
@@ -51,16 +53,20 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 |2018|[Every Little Movement Has a Meaning of Its Own: Using Past Mouse Movements to Predict the Next Interaction](https://dl.acm.org/citation.cfm?id=3173002)
 |2018|[An Active Tangible User Interface Framework for Teaching and Learning Artificial Intelligence](https://dl.acm.org/citation.cfm?id=3172976)|
 
+---
 
-### ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)
+
+### ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW) ###
 
 | Year |  Paper |
 |------|-------------------------------------------------------|
 |2018| [Fact or Fiction](https://dl.acm.org/citation.cfm?id=3274380)|
 |2018| [Data-Driven Proactive Policy Assurance of Post Quality in Community q&a Sites](https://dl.acm.org/citation.cfm?id=3274302)
 
+---
 
-### ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)
+
+### ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp) ###
 | Year |  Paper |
 |------|-------------------------------|
 | 2018 | [DeepType: On-Device Deep Learning for Input Personalization Service with Minimal Privacy Concern](https://doi.org/10.1145/3287075)
@@ -76,8 +82,10 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2017 | [Low-resource Multi-task Audio Sensing for Mobile and Embedded Devices via Shared Deep Neural Network Representations](https://doi.org/10.1145/3131895)
 | 2017 | [Ensembles of Deep LSTM Learners for Activity Recognition using Wearables](https://doi.org/10.1145/3090076)
 
+---
 
-### ACM International Symposium on Wearable Computers (ISWC)
+
+### ACM International Symposium on Wearable Computers (ISWC) ###
 | Year |  Paper |
 |------|-------------------------------|
 | 2018 | [Understanding and improving recurrent networks for human activity recognition by continuous attention](https://doi.org/10.1145/3267242.3267286)
@@ -85,6 +93,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2018 | [Deepauth: in-situ authentication for smartwatches via deeply learned behavioural biometrics](https://doi.org/10.1145/3267242.3267252)
 | 2017 | [CNN-based sensor fusion techniques for multimodal human activity recognition](https://doi.org/10.1145/3123021.3123046)
 
+---
 
 ### IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE InfoVis) ###
 | Year |  Paper |
@@ -93,7 +102,9 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2019 | [Evaluating 'Graphical Perception' with CNNs](https://doi.org/10.1109/TVCG.2018.2865138)
 | 2018 | [LSTMVis: A Tool for Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks](https://doi.org/10.1109/TVCG.2017.2744158)
 
-## Courses
+---
+
+## Courses ##
 There are also some awesome course resources discussing Intelligent User Interface/ Human-AI interaction
 
 | School |  Course | Lecturer|
@@ -105,9 +116,9 @@ There are also some awesome course resources discussing Intelligent User Interfa
 
 
 
-## Curators
+## Curators ##
 [Bryan Wang](http://www.dgp.toronto.edu/~bryanw) (University of Toronto), Joe Hsu (Academia Sinica), [Caleb Lu](http://luzc08.github.io/) (University of Toronto), [Mingming Fan](http://mingmingfan.com/) (University of Toronto), [Jacob Ritchie](http://jacobritchie.xyz) (University of Toronto)
 
-## License
+## License ##
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
