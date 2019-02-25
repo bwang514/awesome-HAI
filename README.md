@@ -15,19 +15,19 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | Year |  Paper |
 |------|-------------------------------|
 | 2019 | [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf) |
-|2018|  [DeepWriting: Making Digital Ink Editable via Deep Generative Modeling](https://dl.acm.org/citation.cfm?id=3173779)
-|2018|  [Evorus: A Crowd-powered Conversational AssistantBuilt to Automate Itself Over Time](https://crowd.ist.psu.edu/pdf/2018/2018_chi.pdf)
-|2018|  [ExtVision: Augmentation of Visual Experiences with Generation of Context Images for a Peripheral Vision Using Deep Neural Network](https://dl.acm.org/citation.cfm?id=3174001)
-|2018|[HindSight: Enhancing Spatial Awareness by Sonifying Detected Objects in Real-Time 360-Degree Video](https://dl.acm.org/citation.cfm?id=3173717)|
-|2018|  [Deep Thermal Imaging: Proximate Material Type Recognition in the Wild through Deep Learning of Spatial Surface Temperature Patterns](https://arxiv.org/abs/1803.02310)
-| 2018|  [Predicting Human Performance in Vertical Menu Selection Using Deep Learning ](https://dl.acm.org/citation.cfm?id=3173603)
-| 2018|  [Touch Your Heart: A Tone-aware Chatbot for Customer Care on Social Media](https://dl.acm.org/citation.cfm?id=3173989)
-| 2018|  [Mapping Machine Learning Advances from HCI Research to Reveal Starting Places for Design Innovation](https://dl.acm.org/citation.cfm?id=3173704)
-|2018|  [Analysis and Modeling of Grid Performance on Touchscreen Mobile Devices](https://dl.acm.org/citation.cfm?id=3173862)
-|2018|  [“Trust Us”: Mobile Phone Use Patterns Can Predict Individual Trust Propensity](https://dl.acm.org/citation.cfm?id=3173904)
-|2018|  [Norms Matter: Contrasting Social Support Around Behavior Change in Online Weight Loss Communities](https://dl.acm.org/citation.cfm?id=3173574.3174240)
-|2017 |[UX Design Innovation: Challenges for Working with Machine Learning as a Design Material](https://dl.acm.org/citation.cfm?id=3025739)|
-|2017|[Multimodal Classification of Moderated Online Pro-Eating Disorder Content](https://dl.acm.org/citation.cfm?id=3025985)|
+| 2018 |  [DeepWriting: Making Digital Ink Editable via Deep Generative Modeling](https://dl.acm.org/citation.cfm?id=3173779)
+| 2018 |  [Evorus: A Crowd-powered Conversational AssistantBuilt to Automate Itself Over Time](https://crowd.ist.psu.edu/pdf/2018/2018_chi.pdf)
+| 2018 |  [ExtVision: Augmentation of Visual Experiences with Generation of Context Images for a Peripheral Vision Using Deep Neural Network](https://dl.acm.org/citation.cfm?id=3174001)
+| 2018 |[HindSight: Enhancing Spatial Awareness by Sonifying Detected Objects in Real-Time 360-Degree Video](https://dl.acm.org/citation.cfm?id=3173717)|
+| 2018 |  [Deep Thermal Imaging: Proximate Material Type Recognition in the Wild through Deep Learning of Spatial Surface Temperature Patterns](https://arxiv.org/abs/1803.02310)
+| 2018 |  [Predicting Human Performance in Vertical Menu Selection Using Deep Learning ](https://dl.acm.org/citation.cfm?id=3173603)
+| 2018 |  [Touch Your Heart: A Tone-aware Chatbot for Customer Care on Social Media](https://dl.acm.org/citation.cfm?id=3173989)
+| 2018 |  [Mapping Machine Learning Advances from HCI Research to Reveal Starting Places for Design Innovation](https://dl.acm.org/citation.cfm?id=3173704)
+| 2018 |  [Analysis and Modeling of Grid Performance on Touchscreen Mobile Devices](https://dl.acm.org/citation.cfm?id=3173862)
+| 2018 |  [“Trust Us”: Mobile Phone Use Patterns Can Predict Individual Trust Propensity](https://dl.acm.org/citation.cfm?id=3173904)
+| 2018 |  [Norms Matter: Contrasting Social Support Around Behavior Change in Online Weight Loss Communities](https://dl.acm.org/citation.cfm?id=3173574.3174240)
+| 2017 |[UX Design Innovation: Challenges for Working with Machine Learning as a Design Material](https://dl.acm.org/citation.cfm?id=3025739)|
+| 2017 |[Multimodal Classification of Moderated Online Pro-Eating Disorder Content](https://dl.acm.org/citation.cfm?id=3025985)|
 
 
 ### ACM User Interface and Software Technology Symposium (UIST) ###
@@ -48,10 +48,10 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 |------|-------------------------------|
 | 2018 | [AlterEgo: A Personalized Wearable Silent Speech Interface](https://dl.acm.org/citation.cfm?id=3172977)
 | 2018 | [Creative Writing with a Machine in the Loop: Case Studies on Slogans and Stories](https://homes.cs.washington.edu/~eaclark7/www/iui2018.pdf) |
-|2018|[Detecting Memory-Based Interaction Obstacles with a Recurrent Neural Model of User Behavior](https://dl.acm.org/citation.cfm?id=3173006)|
-|2018|[User Modelling for Avoiding Overfitting in Interactive Knowledge Elicitation for Prediction](https://dl.acm.org/citation.cfm?id=3172989)
-|2018|[Every Little Movement Has a Meaning of Its Own: Using Past Mouse Movements to Predict the Next Interaction](https://dl.acm.org/citation.cfm?id=3173002)
-|2018|[An Active Tangible User Interface Framework for Teaching and Learning Artificial Intelligence](https://dl.acm.org/citation.cfm?id=3172976)|
+| 2018 |[Detecting Memory-Based Interaction Obstacles with a Recurrent Neural Model of User Behavior](https://dl.acm.org/citation.cfm?id=3173006)|
+| 2018 |[User Modelling for Avoiding Overfitting in Interactive Knowledge Elicitation for Prediction](https://dl.acm.org/citation.cfm?id=3172989)
+| 2018 |[Every Little Movement Has a Meaning of Its Own: Using Past Mouse Movements to Predict the Next Interaction](https://dl.acm.org/citation.cfm?id=3173002)
+| 2018 |[An Active Tangible User Interface Framework for Teaching and Learning Artificial Intelligence](https://dl.acm.org/citation.cfm?id=3172976)|
 
 
 
@@ -59,8 +59,8 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 
 | Year |  Paper |
 |------|-------------------------------------------------------|
-|2018| [Fact or Fiction](https://dl.acm.org/citation.cfm?id=3274380)|
-|2018| [Data-Driven Proactive Policy Assurance of Post Quality in Community q&a Sites](https://dl.acm.org/citation.cfm?id=3274302)
+| 2018 | [Fact or Fiction](https://dl.acm.org/citation.cfm?id=3274380)|
+| 2018 | [Data-Driven Proactive Policy Assurance of Post Quality in Community q&a Sites](https://dl.acm.org/citation.cfm?id=3274302)
 
 
 
