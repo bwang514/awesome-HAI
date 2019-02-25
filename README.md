@@ -27,6 +27,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 |2018|  [“Trust Us”: Mobile Phone Use Patterns Can Predict Individual Trust Propensity](https://dl.acm.org/citation.cfm?id=3173904)
 |2018|  [Norms Matter: Contrasting Social Support Around Behavior Change in Online Weight Loss Communities](https://dl.acm.org/citation.cfm?id=3173574.3174240)
 |2017 |[UX Design Innovation: Challenges for Working with Machine Learning as a Design Material](https://dl.acm.org/citation.cfm?id=3025739)|
+|2017|[Multimodal Classification of Moderated Online Pro-Eating Disorder Content](https://dl.acm.org/citation.cfm?id=3025985)|
 
 
 ### ACM User Interface and Software Technology Symposium (UIST) ###
