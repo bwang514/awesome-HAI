@@ -40,10 +40,10 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2017 | [Everyday Eye Contact Detection Using Unsupervised Gaze Target Discovery](https://dl.acm.org/citation.cfm?id=3126594.3126614) |
 | 2017 | [Learning Visual Importance for Graphic Designs and Data Visualizations](https://arxiv.org/pdf/1708.02660.pdf)|
 | 2017 | [Rico: A Mobile App Dataset for Building Data-Driven Design Applications](https://https://dl.acm.org/citation.cfm?id=3126594.3126651)|
- 
- 
+
+
 ### ACM Annual Meeting of the Intelligent User Interfaces Community (IUI) ###
-| Year |  Paper | 
+| Year |  Paper |
 |------|-------------------------------|
 | 2018 | [AlterEgo: A Personalized Wearable Silent Speech Interface](https://dl.acm.org/citation.cfm?id=3172977)
 | 2018 | [Creative Writing with a Machine in the Loop: Case Studies on Slogans and Stories](https://homes.cs.washington.edu/~eaclark7/www/iui2018.pdf) |
@@ -78,6 +78,8 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2017 | [Mitigating Bystander Privacy Concerns in Egocentric Activity Recognition with Deep Learning and Intentional Image Degradation](https://doi.org/10.1145/3161190)
 | 2017 | [Low-resource Multi-task Audio Sensing for Mobile and Embedded Devices via Shared Deep Neural Network Representations](https://doi.org/10.1145/3131895)
 | 2017 | [Ensembles of Deep LSTM Learners for Activity Recognition using Wearables](https://doi.org/10.1145/3090076)
+| 2016 | [A weakly supervised activity recognition framework for real-time synthetic biology laboratory assistance](https://doi.org/10.1145/2971648.2971716)
+| 2016 | [SpotGarbage: smartphone app to detect garbage using deep learning](https://doi.org/10.1145/2971648.2971731)
 
 
 
@@ -88,6 +90,8 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2018 | [On attention models for human activity recognition](https://doi.org/10.1145/3267242.3267287)
 | 2018 | [Deepauth: in-situ authentication for smartwatches via deeply learned behavioural biometrics](https://doi.org/10.1145/3267242.3267252)
 | 2017 | [CNN-based sensor fusion techniques for multimodal human activity recognition](https://doi.org/10.1145/3123021.3123046)
+| 2016 | [Deep convolutional feature transfer across mobile activity recognition domains, sensor modalities and locations](https://doi.org/10.1145/2971763.2971764)
+
 
 
 ### IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE InfoVis) ###
