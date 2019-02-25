@@ -66,6 +66,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 ### ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp) ###
 | Year |  Paper |
 |------|-------------------------------|
+| 2018 | [Crowd-AI Camera Sensing in the Real World](https://dl.acm.org/citation.cfm?id=3264921)|
 | 2018 | [DeepType: On-Device Deep Learning for Input Personalization Service with Minimal Privacy Concern](https://doi.org/10.1145/3287075)
 | 2018 | [Performance Characterization of Deep Learning Models for Breathing-based Authentication on Resource-Constrained Devices](https://doi.org/10.1145/3287036)
 | 2018 | [Online Deep Ensemble Learning for Predicting Citywide Human Mobility](https://doi.org/10.1145/3264915)
