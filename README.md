@@ -47,6 +47,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 ### ACM Annual Meeting of the Intelligent User Interfaces Community (IUI) ###
 | Year |  Paper |
 |------|-------------------------------|
+| 2019 | [What AI can do for me: Evaluating Machine Learning Interpretations in Cooperative Play](https://dl.acm.org/citation.cfm?id=3302265)
 | 2018 | [AlterEgo: A Personalized Wearable Silent Speech Interface](https://dl.acm.org/citation.cfm?id=3172977)
 | 2018 | [Creative Writing with a Machine in the Loop: Case Studies on Slogans and Stories](https://homes.cs.washington.edu/~eaclark7/www/iui2018.pdf) |
 | 2018 | [Detecting Memory-Based Interaction Obstacles with a Recurrent Neural Model of User Behavior](https://dl.acm.org/citation.cfm?id=3173006)|
