@@ -29,6 +29,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2018 | [Norms Matter: Contrasting Social Support Around Behavior Change in Online Weight Loss Communities](https://dl.acm.org/citation.cfm?id=3173574.3174240)
 | 2017 | [UX Design Innovation: Challenges for Working with Machine Learning as a Design Material](https://dl.acm.org/citation.cfm?id=3025739)|
 | 2017 | [Multimodal Classification of Moderated Online Pro-Eating Disorder Content](https://dl.acm.org/citation.cfm?id=3025985)|
+| 2017 | [People with Visual Impairment Training Personal Object Recognizers: Feasibility and Challenges](http://doi.acm.org/10.1145/3025453.3025899)|
 
 
 ### ACM User Interface and Software Technology Symposium (UIST) ###
@@ -42,7 +43,6 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2017 | [Everyday Eye Contact Detection Using Unsupervised Gaze Target Discovery](https://dl.acm.org/citation.cfm?id=3126594.3126614) |
 | 2017 | [Learning Visual Importance for Graphic Designs and Data Visualizations](https://arxiv.org/pdf/1708.02660.pdf)|
 | 2017 | [Rico: A Mobile App Dataset for Building Data-Driven Design Applications](https://https://dl.acm.org/citation.cfm?id=3126594.3126651)|
-| 2017 | [People with Visual Impairment Training Personal Object Recognizers: Feasibility and Challenges](http://doi.acm.org/10.1145/3025453.3025899)|
 
 ### ACM Annual Meeting of the Intelligent User Interfaces Community (IUI) ###
 | Year |  Paper |
