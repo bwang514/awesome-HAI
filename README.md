@@ -101,12 +101,15 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 
 
 
-### IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE InfoVis) ###
+### IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE InfoVis, VAST, SciVis) ###
 | Year |  Paper |
 |------|-------------------------------|
 | 2019 | [Seq2seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models](https://doi.org/10.1109/TVCG.2018.2865044)
 | 2019 | [Evaluating 'Graphical Perception' with CNNs](https://doi.org/10.1109/TVCG.2018.2865138)
 | 2018 | [LSTMVis: A Tool for Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks](https://doi.org/10.1109/TVCG.2017.2744158)
+| 2018 | [GAN Lab: Understanding Complex Deep Generative Models using Interactive Visual Experimentation](https://doi.org/10.1109/TVCG.2018.2864500)
+| 2017 | [ActiVis: Visual Exploration of Industry-Scale Deep Neural Network Models](https://doi.org/10.1109/TVCG.2017.2744718)
+
 
 
 ## Courses ##
