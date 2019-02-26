@@ -15,6 +15,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | Year |  Paper |
 |------|-------------------------------|
 | 2019 | [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf) |
+| 2018 | [Cognitive Load Estimation in the Wild](https://www.researchgate.net/profile/Lex_Fridman/publication/324658835_Cognitive_Load_Estimation_in_the_Wild/links/5bf0ba3092851c6b27c74bd1/Cognitive-Load-Estimation-in-the-Wild.pdf) |
 | 2018 | [Emotional Dialogue Generation using Image-Grounded Language Models](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/huber2018chi.small_.pdf)
 | 2018 | [DeepWriting: Making Digital Ink Editable via Deep Generative Modeling](https://dl.acm.org/citation.cfm?id=3173779)
 | 2018 | [Evorus: A Crowd-powered Conversational AssistantBuilt to Automate Itself Over Time](https://crowd.ist.psu.edu/pdf/2018/2018_chi.pdf)
