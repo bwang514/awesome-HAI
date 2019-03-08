@@ -59,6 +59,12 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | Year |  Paper |
 |------|-------------------------------|
 | 2019 | [What AI can do for me: Evaluating Machine Learning Interpretations in Cooperative Play](https://dl.acm.org/citation.cfm?id=3302265)
+| 2019 | [SearchLens: Composing and Capturing Complex User Interests for Exploratory Search](https://joseph.nlpweb.org/images/papers/searchlens.pdf)
+| 2019 | [Proactive Information Retrieval by Capturing Search Intent from Primary Task Context](https://dl.acm.org/citation.cfm?id=3150975)
+| 2019 | [A Review of User Interface Design for Interactive Machine Learning](https://dl.acm.org/citation.cfm?id=3185517)
+| 2019 | [BigBlueBot: Teaching Strategies for Successful Human-Agent Interactions](https://homes.cs.washington.edu/~mohitj/pdfs/c24-iui-2019.pdf)
+| 2019 | [The Effect of Explanations and Algorithmic Accuracy on Visual Recommender Systems of Artistic Images](http://dparra.sitios.ing.uc.cl/pdfs/dominguez_IUI_2019_camera_ready.pdf)
+| 2019 | [To Explain or not to Explain: the Effects of Personal Characteristics when Explaining Music Recommendations](https://lirias2repo.kuleuven.be/bitstream/id/525282/)
 | 2018 | [AlterEgo: A Personalized Wearable Silent Speech Interface](https://dl.acm.org/citation.cfm?id=3172977)
 | 2018 | [Creative Writing with a Machine in the Loop: Case Studies on Slogans and Stories](https://homes.cs.washington.edu/~eaclark7/www/iui2018.pdf) |
 | 2018 | [Detecting Memory-Based Interaction Obstacles with a Recurrent Neural Model of User Behavior](https://dl.acm.org/citation.cfm?id=3173006)|
