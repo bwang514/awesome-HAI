@@ -23,6 +23,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2019 | [Beyond Dyadic Interactions: Considering Chatbots as Community Members](https://www.andrew.cmu.edu/user/jseering/papers/Seering%20et%20al%202019%20Social%20Chatbots.pdf) |
 | 2019 | [An Exploration of Speech-Based Productivity Support in the Car](https://www.microsoft.com/en-us/research/uploads/prod/2019/02/productivity-in-the-car.pdf) |
 | 2019 | [Exploring Factors that Influence Connected Drivers to (Not) Use or Follow Recommended Optimal Routes](https://arxiv.org/pdf/1901.06681.pdf) |
+| 2019 | [SmartEye: Assisting Instant Photo Taking via Integrating User Preference with Deep View Proposal Network](https://www3.cs.stonybrook.edu/~cvl/content/papers/2019/Ma_CHFCS19.pdf) |
 | 2018 | [Cognitive Load Estimation in the Wild](https://www.researchgate.net/profile/Lex_Fridman/publication/324658835_Cognitive_Load_Estimation_in_the_Wild/links/5bf0ba3092851c6b27c74bd1/Cognitive-Load-Estimation-in-the-Wild.pdf) |
 | 2018 | [Emotional Dialogue Generation using Image-Grounded Language Models](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/huber2018chi.small_.pdf)
 | 2018 | [DeepWriting: Making Digital Ink Editable via Deep Generative Modeling](https://dl.acm.org/citation.cfm?id=3173779)
