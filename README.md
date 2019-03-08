@@ -15,6 +15,14 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | Year |  Paper |
 |------|-------------------------------|
 | 2019 | [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf) |
+| 2019 | [AI-Mediated Communication: How the Perception that Profile Text was Written by AI Affects Trustworthiness](http://www.mauricejakesch.com/pub/chi2019__ai_mc_camera_ready.pdf) |
+| 2019 | [Designing Theory-Driven User-Centric Explainable AI](https://www.ashrafabdul.com/pdf/xai-framework-preprint-chi2019.pdf) |
+| 2019 | [Will You Accept an Imperfect AI? Exploring Designs for Adjusting End-user Expectations of AI Systems](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/chi19_kocielnik_et_al.pdf) |
+| 2019 | [ATMSeer: Increasing Transparency and Controllability in Automated Machine Learning](https://arxiv.org/pdf/1902.05009.pdf) |
+| 2019 | [In a Silent Way: Communication Between AI and Improvising Musicians Beyond Sound](https://arxiv.org/pdf/1902.06442.pdf) |
+| 2019 | [Exploring Factors that Influence Connected Drivers to (Not) Use or Follow Recommended Optimal Routes](https://www.andrew.cmu.edu/user/jseering/papers/Seering%20et%20al%202019%20Social%20Chatbots.pdf) |
+| 2019 | [An Exploration of Speech-Based Productivity Support in the Car](https://www.microsoft.com/en-us/research/uploads/prod/2019/02/productivity-in-the-car.pdf) |
+| 2019 | [Exploring Factors that Influence Connected Drivers to (Not) Use or Follow Recommended Optimal Routes](https://arxiv.org/pdf/1901.06681.pdf) |
 | 2018 | [Cognitive Load Estimation in the Wild](https://www.researchgate.net/profile/Lex_Fridman/publication/324658835_Cognitive_Load_Estimation_in_the_Wild/links/5bf0ba3092851c6b27c74bd1/Cognitive-Load-Estimation-in-the-Wild.pdf) |
 | 2018 | [Emotional Dialogue Generation using Image-Grounded Language Models](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/huber2018chi.small_.pdf)
 | 2018 | [DeepWriting: Making Digital Ink Editable via Deep Generative Modeling](https://dl.acm.org/citation.cfm?id=3173779)
