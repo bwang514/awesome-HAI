@@ -30,7 +30,8 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2018 | [ExtVision: Augmentation of Visual Experiences with Generation of Context Images for a Peripheral Vision Using Deep Neural Network](https://dl.acm.org/citation.cfm?id=3174001)
 | 2018 | [HindSight: Enhancing Spatial Awareness by Sonifying Detected Objects in Real-Time 360-Degree Video](https://dl.acm.org/citation.cfm?id=3173717)|
 | 2018 | [Deep Thermal Imaging: Proximate Material Type Recognition in the Wild through Deep Learning of Spatial Surface Temperature Patterns](https://arxiv.org/abs/1803.02310)
-| 2018 | [Predicting Human Performance in Vertical Menu Selection Using Deep Learning ](https://dl.acm.org/citation.cfm?id=3173603)
+| 2018 | [Predicting Human Performance in Vertical Menu Selection Using Deep Learning](https://dl.acm.org/citation.cfm?id=3173603)
+| 2018 | [Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda](http://www.brianlim.net/wordpress/wp-content/uploads/2018/01/chi2018-intelligibility%20final.pdf)
 | 2018 | [Touch Your Heart: A Tone-aware Chatbot for Customer Care on Social Media](https://dl.acm.org/citation.cfm?id=3173989)
 | 2018 | [Mapping Machine Learning Advances from HCI Research to Reveal Starting Places for Design Innovation](https://dl.acm.org/citation.cfm?id=3173704)
 | 2018 | [Analysis and Modeling of Grid Performance on Touchscreen Mobile Devices](https://dl.acm.org/citation.cfm?id=3173862)
