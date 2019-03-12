@@ -82,6 +82,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 |------|-------------------------------------------------------|
 | 2018 | [Fact or Fiction](https://dl.acm.org/citation.cfm?id=3274380)|
 | 2018 | [Data-Driven Proactive Policy Assurance of Post Quality in Community q&a Sites](https://dl.acm.org/citation.cfm?id=3274302)
+| 2018 | [By the Community & For the Community: A Deep Learning Approach to Assist Collaborative Editing in Q&A Sites](https://dl.acm.org/citation.cfm?id=3134667)
 
 
 
