@@ -121,6 +121,8 @@ There are also some awesome course resources discussing Intelligent User Interfa
 | Aalto University| [Intelligent User Interfaces Studio](https://mycourses.aalto.fi/course/view.php?id=20975)| Kashyap Todi and Sunjun Kim|
 | Penn State University| [Crowdsourcing & Crowd-AI Systems](http://crowdaiclass.org/)|Kenneth Huang|
 | University of Colorado Boulder| [Human-centered Machine Learning](https://chenhaot.com/courses/hcml/home.html)|Chenhao Tan|
+| Stanford University| [Designing AI to Cultivate Human Well-Being](https://designing-ai.su.domains/)| Jennifer Aaker and Fei-Fei Li|
+
 
 
 
