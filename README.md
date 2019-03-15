@@ -16,6 +16,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 |------|-------------------------------|
 | 2019 | [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf) |
 | 2019 | [What Makes a Good Conversation? Challenges in Designing Truly Conversational Agents](https://arxiv.org/pdf/1901.06525.pdf) |
+| 2019 | [Implicit Communication of Actionable Information in Human-AI teams](https://rpal.cs.cornell.edu/docs/LiaEtal_CHI_2019.pdf) |
 | 2019 | [AI-Mediated Communication: How the Perception that Profile Text was Written by AI Affects Trustworthiness](http://www.mauricejakesch.com/pub/chi2019__ai_mc_camera_ready.pdf) |
 | 2019 | [Designing Theory-Driven User-Centric Explainable AI](https://www.ashrafabdul.com/pdf/xai-framework-preprint-chi2019.pdf) |
 | 2019 | [Will You Accept an Imperfect AI? Exploring Designs for Adjusting End-user Expectations of AI Systems](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/chi19_kocielnik_et_al.pdf) |
