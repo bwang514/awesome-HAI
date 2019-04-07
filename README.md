@@ -61,6 +61,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2017 | [Everyday Eye Contact Detection Using Unsupervised Gaze Target Discovery](https://dl.acm.org/citation.cfm?id=3126594.3126614) |
 | 2017 | [Learning Visual Importance for Graphic Designs and Data Visualizations](https://arxiv.org/pdf/1708.02660.pdf)|
 | 2017 | [Rico: A Mobile App Dataset for Building Data-Driven Design Applications](https://https://dl.acm.org/citation.cfm?id=3126594.3126651)|
+| 2016|  [Interacting with Soli: Exploring Fine-Grained Dynamic Gesture Recognition in the Radio-Frequency Spectrum](https://dl.acm.org/citation.cfm?id=2984565)
 
 ### ACM Annual Meeting of the Intelligent User Interfaces Community (IUI) ###
 | Year |  Paper |
