@@ -15,6 +15,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | Year |  Paper |
 |------|-------------------------------|
 | 2019 | [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf) |
+| 2019 | [Unremarkable AI: Fitting Intelligent Decision Support into Critical, Clinical Decision-Making Processes](https://dl.acm.org/citation.cfm?id=3290605.3300468)|
 | 2019 | [What Makes a Good Conversation? Challenges in Designing Truly Conversational Agents](https://arxiv.org/pdf/1901.06525.pdf) |
 | 2019 | [Implicit Communication of Actionable Information in Human-AI teams](https://rpal.cs.cornell.edu/docs/LiaEtal_CHI_2019.pdf) |
 | 2019 | [AI-Mediated Communication: How the Perception that Profile Text was Written by AI Affects Trustworthiness](http://www.mauricejakesch.com/pub/chi2019__ai_mc_camera_ready.pdf) |
