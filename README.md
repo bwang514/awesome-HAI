@@ -29,11 +29,12 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2019 | [Exploring Factors that Influence Connected Drivers to (Not) Use or Follow Recommended Optimal Routes](https://arxiv.org/pdf/1901.06681.pdf) |
 | 2019 | [SmartEye: Assisting Instant Photo Taking via Integrating User Preference with Deep View Proposal Network](https://www3.cs.stonybrook.edu/~cvl/content/papers/2019/Ma_CHFCS19.pdf) |
 | 2019 | [QuizBot: A Dialogue-based Adaptive Learning System for Factual Knowledge](https://dl.acm.org/citation.cfm?id=3300587)|
+| 2019 | [Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models](https://fredhohman.com/papers/19-gamut-chi.pdf)
 | 2018 | [All Work and No Play? Conversations with a Question-and-Answer Chatbot in the Wild](https://dl.acm.org/citation.cfm?id=3173574.3173577) |
 | 2018 | [Cognitive Load Estimation in the Wild](https://www.researchgate.net/profile/Lex_Fridman/publication/324658835_Cognitive_Load_Estimation_in_the_Wild/links/5bf0ba3092851c6b27c74bd1/Cognitive-Load-Estimation-in-the-Wild.pdf) |
 | 2018 | [Emotional Dialogue Generation using Image-Grounded Language Models](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/huber2018chi.small_.pdf)
 | 2018 | [DeepWriting: Making Digital Ink Editable via Deep Generative Modeling](https://dl.acm.org/citation.cfm?id=3173779)
-| 2018 | [Evorus: A Crowd-powered Conversational AssistantBuilt to Automate Itself Over Time](https://crowd.ist.psu.edu/pdf/2018/2018_chi.pdf)
+| 2018 | [Evorus: A Crowd-powered Conversational Assistant Built to Automate Itself Over Time](https://crowd.ist.psu.edu/pdf/2018/2018_chi.pdf)
 | 2018 | [RecipeScape: An Interactive Tool for Analyzing Cooking Instructions at Scale](https://dl.acm.org/citation.cfm?doid=3173574.3174025)
 | 2018 | [ExtVision: Augmentation of Visual Experiences with Generation of Context Images for a Peripheral Vision Using Deep Neural Network](https://dl.acm.org/citation.cfm?id=3174001)
 | 2018 | [HindSight: Enhancing Spatial Awareness by Sonifying Detected Objects in Real-Time 360-Degree Video](https://dl.acm.org/citation.cfm?id=3173717)|
@@ -134,9 +135,31 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2019 | [Seq2seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models](https://doi.org/10.1109/TVCG.2018.2865044)
 | 2019 | [Evaluating 'Graphical Perception' with CNNs](https://doi.org/10.1109/TVCG.2018.2865138)
 | 2019 | [InkPlanner: Supporting Prewriting via Intelligent Visual Diagramming](https://doi.org/10.1109/TVCG.2018.2864887)
+| 2018 | [Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers](https://fredhohman.com/visual-analytics-in-deep-learning/)
 | 2018 | [LSTMVis: A Tool for Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks](https://doi.org/10.1109/TVCG.2017.2744158)
 | 2018 | [GAN Lab: Understanding Complex Deep Generative Models using Interactive Visual Experimentation](https://doi.org/10.1109/TVCG.2018.2864500)
 | 2017 | [ActiVis: Visual Exploration of Industry-Scale Deep Neural Network Models](https://doi.org/10.1109/TVCG.2017.2744718)
+
+
+
+### Proceedings of the National Academy of Sciences (PNAS) ###
+| Year | Paper |
+|------|-------------------------------|
+| 2019 | [Agency plus automation: Designing artificial intelligence into interactive systems](https://idl.cs.washington.edu/files/2019-AgencyPlusAutomation-PNAS.pdf) 
+
+
+
+### Communications of the ACM (CACM) ###
+| Year | Paper |
+|------|-------------------------------|
+| 2018 | [The Challenge of Crafting Intelligible Intelligence](https://arxiv.org/pdf/1803.04263.pdf) 
+
+
+
+### arXiv ###
+| Year | Paper |
+|------|-------------------------------|
+| 2017 | [Machine Teaching: A New Paradigm for Building Machine Learning Systems](https://arxiv.org/pdf/1707.06742.pdf) 
 
 
 
