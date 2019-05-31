@@ -142,6 +142,13 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 
 
 
+### Communications of the ACM (CACM) ###
+| Year | Paper |
+|------|-------------------------------|
+| 2018 | [The Challenge of Crafting Intelligible Intelligence](https://arxiv.org/pdf/1803.04263.pdf) 
+
+
+
 ## Courses ##
 There are also some awesome course resources discussing Intelligent User Interface/ Human-AI interaction
 
