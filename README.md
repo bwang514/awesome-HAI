@@ -156,6 +156,13 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 
 
 
+### arXiv ###
+| Year | Paper |
+|------|-------------------------------|
+| 2017 | [Machine Teaching: A New Paradigm for Building Machine Learning Systems](https://arxiv.org/pdf/1707.06742.pdf) 
+
+
+
 ## Courses ##
 There are also some awesome course resources discussing Intelligent User Interface/ Human-AI interaction
 
