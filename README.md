@@ -142,7 +142,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 
 
 
-### Communications of the ACM (CACM) ###
+### Proceedings of the National Academy of Sciences (PNAS) ###
 | Year | Paper |
 |------|-------------------------------|
 | 2019 | [Agency plus automation: Designing artificial intelligence into interactive systems](https://idl.cs.washington.edu/files/2019-AgencyPlusAutomation-PNAS.pdf) 
