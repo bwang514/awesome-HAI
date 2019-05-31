@@ -135,6 +135,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2019 | [Seq2seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models](https://doi.org/10.1109/TVCG.2018.2865044)
 | 2019 | [Evaluating 'Graphical Perception' with CNNs](https://doi.org/10.1109/TVCG.2018.2865138)
 | 2019 | [InkPlanner: Supporting Prewriting via Intelligent Visual Diagramming](https://doi.org/10.1109/TVCG.2018.2864887)
+| 2018 | [Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers](https://fredhohman.com/visual-analytics-in-deep-learning/)
 | 2018 | [LSTMVis: A Tool for Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks](https://doi.org/10.1109/TVCG.2017.2744158)
 | 2018 | [GAN Lab: Understanding Complex Deep Generative Models using Interactive Visual Experimentation](https://doi.org/10.1109/TVCG.2018.2864500)
 | 2017 | [ActiVis: Visual Exploration of Industry-Scale Deep Neural Network Models](https://doi.org/10.1109/TVCG.2017.2744718)
