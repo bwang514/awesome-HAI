@@ -145,6 +145,13 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 ### Communications of the ACM (CACM) ###
 | Year | Paper |
 |------|-------------------------------|
+| 2019 | [Agency plus automation: Designing artificial intelligence into interactive systems](https://idl.cs.washington.edu/files/2019-AgencyPlusAutomation-PNAS.pdf) 
+
+
+
+### Communications of the ACM (CACM) ###
+| Year | Paper |
+|------|-------------------------------|
 | 2018 | [The Challenge of Crafting Intelligible Intelligence](https://arxiv.org/pdf/1803.04263.pdf) 
 
 
