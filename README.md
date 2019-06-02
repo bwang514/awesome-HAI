@@ -156,6 +156,14 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 
 
 
+### Distill ###
+| Year | Paper |
+|------|-------------------------------|
+| 2019 | [AI Safety Needs Social Scientists](https://distill.pub/2019/safety-needs-social-scientists/) 
+| 2017 | [Using Artificial Intelligence to Augment Human Intelligence](https://distill.pub/2017/aia/) 
+
+
+
 ### arXiv ###
 | Year | Paper |
 |------|-------------------------------|
@@ -173,7 +181,7 @@ There are also some awesome course resources discussing Intelligent User Interfa
 | Penn State University| [Crowdsourcing & Crowd-AI Systems](http://crowdaiclass.org/)|Kenneth Huang|
 | University of Colorado Boulder| [Human-centered Machine Learning](https://chenhaot.com/courses/hcml/home.html)|Chenhao Tan|
 | Stanford University| [Designing AI to Cultivate Human Well-Being](https://designing-ai.su.domains/)| Jennifer Aaker and Fei-Fei Li|
-
+| Georgia Tech | [Data and Visual Analytics](https://poloclub.github.io/#cse6242)
 
 
 
