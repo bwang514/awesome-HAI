@@ -146,7 +146,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | Year | Paper |
 |------|-------------------------------|
 | 2019 | [Agency plus automation: Designing artificial intelligence into interactive systems](https://idl.cs.washington.edu/files/2019-AgencyPlusAutomation-PNAS.pdf) 
-| 2019 | [Scaling up analogical innovation with crowds and AI] (https://www.pnas.org/content/pnas/116/6/1870.full.pdf)
+| 2019 | [Scaling up analogical innovation with crowds and AI](https://www.pnas.org/content/pnas/116/6/1870.full.pdf)
 | 2019 | [Citizen science frontiers: Efficiency, engagement, and serendipitous discovery with human–machine systems](https://www.pnas.org/content/pnas/116/6/1902.full.pdf)
 
 
