@@ -113,6 +113,42 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 
 
 
+### Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) ###
+| Year |  Paper |
+|------|-------------------------------|
+| 2018 | [Achieving Fairness through Adversarial Learning: an Application toRecidivism Prediction](https://stanford.edu/~cpiech/bio/papers/fairnessAdversary.pdf)
+
+
+
+### Association for the Advancement of Artificial Intelligence (AAAI) ###
+| Year |  Paper |
+|------|-------------------------------|
+| 2019 | [Updates in Human-AI Teams: Understanding and Addressing the Performance/Compatibility Tradeoff](https://aiweb.cs.washington.edu/ai/pubs/bansal-aaai19.pdf)
+| 2019 | [Zero Shot Learning for Code Education:Rubric Sampling with Deep Learning Inference](https://stanford.edu/~cpiech/bio/papers/zeroShotCode.pdf)
+
+
+
+### Neural Information Processing Systems (NeurIPS) ###
+| Year |  Paper |
+|------|-------------------------------|
+| 2015 | [Deep Knowledge Tracing](https://stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf) 
+
+
+
+###  International Conference on Machine Learning (ICML) ###
+| Year |  Paper |
+|------|-------------------------------|
+| 2015 | [Learning Program Embeddings to Propagate Feedback](https://stanford.edu/~cpiech/bio/papers/programEncoding.pdf) 
+
+
+
+### Educational Data Mining (EDM) ###
+| Year |  Paper |
+|------|-------------------------------|
+| 2015 | [Tuning Peer Grading](https://stanford.edu/~cpiech/bio/papers/tuningPeerGrading.pdf) 
+
+
+
 ## Courses ##
 There are also some awesome course resources discussing Intelligent User Interface/ Human-AI interaction
 
