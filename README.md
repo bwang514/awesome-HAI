@@ -53,6 +53,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 |2016|[“Like Having a Really bad PA”: The Gulf between User Expectation and Experience of Conversational Agents ](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/p5286-luger.pdf)|
 
 
+
 ### ACM User Interface and Software Technology Symposium (UIST) ###
 
 | Year |  Paper |
@@ -65,6 +66,8 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2017 | [Learning Visual Importance for Graphic Designs and Data Visualizations](https://arxiv.org/pdf/1708.02660.pdf)|
 | 2017 | [Rico: A Mobile App Dataset for Building Data-Driven Design Applications](https://https://dl.acm.org/citation.cfm?id=3126594.3126651)|
 | 2016|  [Interacting with Soli: Exploring Fine-Grained Dynamic Gesture Recognition in the Radio-Frequency Spectrum](https://dl.acm.org/citation.cfm?id=2984565)
+
+
 
 ### ACM Annual Meeting of the Intelligent User Interfaces Community (IUI) ###
 | Year |  Paper |
@@ -142,12 +145,49 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 
 
 
+### Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) ###
+| Year |  Paper |
+|------|-------------------------------|
+| 2018 | [Achieving Fairness through Adversarial Learning: an Application toRecidivism Prediction](https://stanford.edu/~cpiech/bio/papers/fairnessAdversary.pdf)
+
+
+
+### Association for the Advancement of Artificial Intelligence (AAAI) ###
+| Year |  Paper |
+|------|-------------------------------|
+| 2019 | [Updates in Human-AI Teams: Understanding and Addressing the Performance/Compatibility Tradeoff](https://aiweb.cs.washington.edu/ai/pubs/bansal-aaai19.pdf)
+| 2019 | [Zero Shot Learning for Code Education:Rubric Sampling with Deep Learning Inference](https://stanford.edu/~cpiech/bio/papers/zeroShotCode.pdf)
+
+
+
+### Neural Information Processing Systems (NeurIPS) ###
+| Year |  Paper |
+|------|-------------------------------|
+| 2015 | [Deep Knowledge Tracing](https://stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf) 
+
+
+
+###  International Conference on Machine Learning (ICML) ###
+| Year |  Paper |
+|------|-------------------------------|
+| 2015 | [Learning Program Embeddings to Propagate Feedback](https://stanford.edu/~cpiech/bio/papers/programEncoding.pdf) 
+
+
+
+### Educational Data Mining (EDM) ###
+| Year |  Paper |
+|------|-------------------------------|
+| 2015 | [Tuning Peer Grading](https://stanford.edu/~cpiech/bio/papers/tuningPeerGrading.pdf) 
+
+
+
 ### Proceedings of the National Academy of Sciences (PNAS) ###
 | Year | Paper |
 |------|-------------------------------|
 | 2019 | [Agency plus automation: Designing artificial intelligence into interactive systems](https://idl.cs.washington.edu/files/2019-AgencyPlusAutomation-PNAS.pdf) 
 | 2019 | [Scaling up analogical innovation with crowds and AI](https://www.pnas.org/content/pnas/116/6/1870.full.pdf)
 | 2019 | [Citizen science frontiers: Efficiency, engagement, and serendipitous discovery with human–machine systems](https://www.pnas.org/content/pnas/116/6/1902.full.pdf)
+
 
 
 ### Communications of the ACM (CACM) ###
