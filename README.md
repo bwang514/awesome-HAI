@@ -1,9 +1,8 @@
 # Awesome Human-AI Interactiton [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) #
 
 
-There has been a rising trend of applying __Deep Learning__, or __AI__, to solve __Human-Computer Interaction__ problems. And it's awesome to see _what problems_ HCI researchers are solving with deep learning and what _challenges_ that occur when designing AI-infused interfaces!
+There has been a rising trend of applying __Deep Learning__, or __AI__, to solve __Human-Computer Interaction__ problems. And it's awesome to see _what problems_ HCI researchers are solving with deep learning and what _challenges_ that occur when designing AI-infused interfaces! Therefore, we curated the list which so far includes research papers, ranging from high-level design guidelines for human-AI interaction to system papers utilizing deep learning, and courses from universities world wide.
 
-However, there seems to be no curation for all these awesome HCI + DL/ Human-AI Interaction resources so far. That's why we do this!
 
 ## Table of Contents ##
 - [Research Papers](#research-papers)
