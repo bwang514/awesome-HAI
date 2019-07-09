@@ -227,7 +227,7 @@ There are also some awesome course resources discussing Intelligent User Interfa
 
 
 ## Curators ##
-[Bryan Wang](http://www.dgp.toronto.edu/~bryanw) (University of Toronto), Joe Hsu (Academia Sinica), [Caleb Lu](http://luzc08.github.io/) (University of Toronto), [Mingming Fan](http://mingmingfan.com/) (University of Toronto), [Jacob Ritchie](http://jacobritchie.xyz) (University of Toronto), [Fanglin Chen](http://fanglin-chen.strikingly.com/) (Carnegie Mellon University)
+The repo is jointly contributed by researchers from different institutions, please refer to the [contributor page](https://github.com/bwang514/awesome-HAI/graphs/contributors).
 
 ## License ##
 
