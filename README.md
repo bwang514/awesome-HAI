@@ -30,6 +30,7 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2019 | [SmartEye: Assisting Instant Photo Taking via Integrating User Preference with Deep View Proposal Network](https://www3.cs.stonybrook.edu/~cvl/content/papers/2019/Ma_CHFCS19.pdf) |
 | 2019 | [QuizBot: A Dialogue-based Adaptive Learning System for Factual Knowledge](https://dl.acm.org/citation.cfm?id=3300587)|
 | 2019 | [Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models](https://fredhohman.com/papers/19-gamut-chi.pdf)
+| 2019 | [Automation Accuracy Is Good, but High Controllability May Be Better](https://dl.acm.org/citation.cfm?id=3300750)
 | 2018 | [All Work and No Play? Conversations with a Question-and-Answer Chatbot in the Wild](https://dl.acm.org/citation.cfm?id=3173574.3173577) |
 | 2018 | [Cognitive Load Estimation in the Wild](https://www.researchgate.net/profile/Lex_Fridman/publication/324658835_Cognitive_Load_Estimation_in_the_Wild/links/5bf0ba3092851c6b27c74bd1/Cognitive-Load-Estimation-in-the-Wild.pdf) |
 | 2018 | [Emotional Dialogue Generation using Image-Grounded Language Models](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/huber2018chi.small_.pdf)
