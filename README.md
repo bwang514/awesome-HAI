@@ -14,6 +14,7 @@ There has been a rising trend of applying __Deep Learning__, or __AI__, to solve
 | Year |  Paper |
 |------|-------------------------------|
 | 2019 | [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf) |
+| 2019 | [Caring for Vincent: A Chatbot for Self-compassion](https://minha-lee.github.io/files/lee_vincent_chatbot_CHI2019.pdf) |
 | 2019 | [Unremarkable AI: Fitting Intelligent Decision Support into Critical, Clinical Decision-Making Processes](https://dl.acm.org/citation.cfm?id=3290605.3300468)|
 | 2019 | [What Makes a Good Conversation? Challenges in Designing Truly Conversational Agents](https://arxiv.org/pdf/1901.06525.pdf) |
 | 2019 | [Implicit Communication of Actionable Information in Human-AI teams](https://rpal.cs.cornell.edu/docs/LiaEtal_CHI_2019.pdf) |
