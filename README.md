@@ -47,6 +47,7 @@ There has been a rising trend of applying __Deep Learning__, or __AI__, to solve
 | 2018 | [“Trust Us”: Mobile Phone Use Patterns Can Predict Individual Trust Propensity](https://dl.acm.org/citation.cfm?id=3173904)
 | 2018 | [Norms Matter: Contrasting Social Support Around Behavior Change in Online Weight Loss Communities](https://dl.acm.org/citation.cfm?id=3173574.3174240)
 | 2017 | [UX Design Innovation: Challenges for Working with Machine Learning as a Design Material](https://dl.acm.org/citation.cfm?id=3025739)|
+| 2017 | [A New Chatbot for Customer Service on Social Media](https://dl.acm.org/citation.cfm?id=3025496)|
 | 2017 | [Multimodal Classification of Moderated Online Pro-Eating Disorder Content](https://dl.acm.org/citation.cfm?id=3025985)|
 | 2017 | [People with Visual Impairment Training Personal Object Recognizers: Feasibility and Challenges](http://doi.acm.org/10.1145/3025453.3025899)|
 |2016|[Augur: Mining Human Behaviors from Fiction to Power Interactive Systems](https://dl.acm.org/citation.cfm?id=2858528)|
