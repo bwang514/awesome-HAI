@@ -60,10 +60,8 @@ There has been a rising trend of applying __Deep Learning__, or __AI__, to solve
 ### ACM User Interface and Software Technology Symposium (UIST) ###
 
 | Year |  Paper |
-|------|-------------------------------------------------------
-| 2019 | [Learning Cooperative Personalized Policies from Gaze Data
-](https://ait.ethz.ch/projects/2019/label-agent/downloads/label_agent_preprint.pdf) |
-
+|------|-------------------------------------------------------|
+| 2019 | [Learning Cooperative Personalized Policies from Gaze Data](https://ait.ethz.ch/projects/2019/label-agent/downloads/label_agent_preprint.pdf)|
 | 2018 | [Ubicoustics: Plug-and-Play Acoustic Activity Recognition](http://www.gierad.com/assets/ubicoustics/ubicoustics.pdf) |
 | 2018 | [Lip-Interact: Improving Mobile Device Interaction with Silent Speech Commands](https://dl.acm.org/citation.cfm?id=3242599) |
 | 2018 | [The Exploratory Labeling Assistant: Mixed-Initiative Label Curation with Large Document Collections](https://dl.acm.org/citation.cfm?id=3242596) |
