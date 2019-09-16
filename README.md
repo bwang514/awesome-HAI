@@ -106,7 +106,6 @@ There has been a rising trend of applying __Deep Learning__, or __AI__, to solve
 ### ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp) ###
 | Year |  Paper |
 |------|-------------------------------|
-
 | 2019 | [TurnsMap: Enhancing Driving Safety at Intersections with Mobile Crowdsensing and Deep Learning]
 (https://dl.acm.org/citation.cfm?doid=3361560.3351236)
 | 2019 | [AdaRF: Adaptive RFID-based Indoor Localization Using Deep Learning Enhanced Holography]
