@@ -106,6 +106,13 @@ There has been a rising trend of applying __Deep Learning__, or __AI__, to solve
 ### ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp) ###
 | Year |  Paper |
 |------|-------------------------------|
+
+| 2019 | [TurnsMap: Enhancing Driving Safety at Intersections with Mobile Crowdsensing and Deep Learning]
+(https://dl.acm.org/citation.cfm?doid=3361560.3351236)
+| 2019 | [AdaRF: Adaptive RFID-based Indoor Localization Using Deep Learning Enhanced Holography]
+(https://dl.acm.org/citation.cfm?doid=3361560.3351271)
+| 2019 | [Deep Multi-Task Learning Based Urban Air Quality Index Modelling]
+(https://dl.acm.org/citation.cfm?doid=3323054.3314389)
 | 2018 | [What Will You Do for the Rest of the Day? An Approach to Continuous Trajectory Prediction](https://dl.acm.org/citation.cfm?id=3287064)|
 | 2018 | [GymCam: Detecting, Recognizing and Tracking Simultaneous Exercises in Unconstrained Scenes](https://dl.acm.org/citation.cfm?id=3287063)|
 | 2018 | [Crowd-AI Camera Sensing in the Real World](https://dl.acm.org/citation.cfm?id=3264921)|
