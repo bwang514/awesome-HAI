@@ -77,6 +77,7 @@ There has been a rising trend of applying __Deep Learning__, or __AI__, to solve
 ### ACM Annual Meeting of the Intelligent User Interfaces Community (IUI) ###
 | Year |  Paper |
 |------|-------------------------------|
+| 2019 | [When People and Algorithms Meet: Assessing User-reported Problems to Inform Support in Intelligent Everyday Applications](http://www.daniel-buschek.de/assets/pubs/eiband2019iui/eiband2019iui.pdf)
 | 2019 | [What AI can do for me: Evaluating Machine Learning Interpretations in Cooperative Play](https://dl.acm.org/citation.cfm?id=3302265)
 | 2019 | [SearchLens: Composing and Capturing Complex User Interests for Exploratory Search](https://joseph.nlpweb.org/images/papers/searchlens.pdf)
 | 2019 | [Proactive Information Retrieval by Capturing Search Intent from Primary Task Context](https://dl.acm.org/citation.cfm?id=3150975)
