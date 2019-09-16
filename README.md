@@ -29,6 +29,7 @@ There has been a rising trend of applying __Deep Learning__, or __AI__, to solve
 | 2019 | [An Exploration of Speech-Based Productivity Support in the Car](https://www.microsoft.com/en-us/research/uploads/prod/2019/02/productivity-in-the-car.pdf) |
 | 2019 | [Exploring Factors that Influence Connected Drivers to (Not) Use or Follow Recommended Optimal Routes](https://arxiv.org/pdf/1901.06681.pdf) |
 | 2019 | [SmartEye: Assisting Instant Photo Taking via Integrating User Preference with Deep View Proposal Network](https://www3.cs.stonybrook.edu/~cvl/content/papers/2019/Ma_CHFCS19.pdf) |
+| 2019 | [Hands Holding Clues for Object Recognition in Teachable Machines](https://www.cs.umd.edu/~kjlee/papers/lee+chi2019.pdf) |
 | 2019 | [QuizBot: A Dialogue-based Adaptive Learning System for Factual Knowledge](https://dl.acm.org/citation.cfm?id=3300587)|
 | 2019 | [Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models](https://fredhohman.com/papers/19-gamut-chi.pdf)
 | 2019 | [Automation Accuracy Is Good, but High Controllability May Be Better](https://dl.acm.org/citation.cfm?id=3300750)
