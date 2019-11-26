@@ -174,6 +174,7 @@ There has been a rising trend of applying __Deep Learning__, or __AI__, to solve
 ### Neural Information Processing Systems (NeurIPS) ###
 | Year |  Paper |
 |------|-------------------------------|
+| 2019 | [On the Utility of Learning about Humans for Human-AI Coordination](https://arxiv.org/pdf/1910.05789.pdf)
 | 2015 | [Deep Knowledge Tracing](https://stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf) 
 
 
