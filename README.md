@@ -62,6 +62,8 @@ There has been a rising trend of applying __Deep Learning__, or __AI__, to solve
 
 | Year |  Paper |
 |------|-------------------------------------------------------|
+| 2019 | [Mallard: Turn the Web into a Contextualized Prototyping nvironment for Machine Learning](https://dl.acm.org/citation.cfm?id=3347936)
+| 2019 | [Type, Then Correct: Intelligent Text Correction Techniques for Mobile Text Entry Using Neural Networks](https://dl.acm.org/citation.cfm?id=3347924)
 | 2019 | [Learning Cooperative Personalized Policies from Gaze Data](https://ait.ethz.ch/projects/2019/label-agent/downloads/label_agent_preprint.pdf)|
 | 2018 | [Ubicoustics: Plug-and-Play Acoustic Activity Recognition](http://www.gierad.com/assets/ubicoustics/ubicoustics.pdf) |
 | 2018 | [Lip-Interact: Improving Mobile Device Interaction with Silent Speech Commands](https://dl.acm.org/citation.cfm?id=3242599) |
