@@ -235,6 +235,7 @@ There are also some awesome course resources discussing Intelligent User Interfa
 | University of Colorado Boulder| [Human-centered Machine Learning](https://chenhaot.com/courses/hcml/home.html)|Chenhao Tan|
 | Stanford University| [Designing AI to Cultivate Human Well-Being](https://designing-ai.su.domains/)| Jennifer Aaker and Fei-Fei Li|
 | Georgia Tech | [Data and Visual Analytics](https://poloclub.github.io/#cse6242)
+| Columbia University | [Intelligent Decision Support: History, Paradigms, Applications](https://www.dbmi.columbia.edu/binf-g4008-001-intelligent-decision-support-history-paradigms-and-applications/) | Lena Mamykina |
 
 
 
