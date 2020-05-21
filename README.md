@@ -230,6 +230,7 @@ There are also some awesome course resources discussing Intelligent User Interfa
 | School |  Course | Lecturer|
 |------|-------------------------------|------|
 | Carnegie Mellon University | [Human-AI Interaction](http://humanaiclass.org/)| Jeff Bigham and Joseph Seering|
+| Carnegie Mellon University | [Software Engineering for AI-Enabled Systems (SE4AI)](https://ckaestne.github.io/seai/)| Christian Kaestner|
 | Aalto University| [Intelligent User Interfaces Studio](https://mycourses.aalto.fi/course/view.php?id=20975)| Kashyap Todi and Sunjun Kim|
 | Penn State University| [Crowdsourcing & Crowd-AI Systems](http://crowdaiclass.org/)|Kenneth Huang|
 | University of Colorado Boulder| [Human-centered Machine Learning](https://chenhaot.com/courses/hcml/home.html)|Chenhao Tan|
