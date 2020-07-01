@@ -156,6 +156,13 @@ There has been a rising trend of applying __Deep Learning__, or __AI__, to solve
 
 
 
+### Computer Graphics Forum (Proceedings of EuroVis and EuroGraphics) ###
+| Year |  Paper |
+|------|-------------------------------|
+| 2020 | [Peax: Interactive Visual Pattern Search in Sequential Data Using Unsupervised Deep Representation Learning](https://vcg.seas.harvard.edu/publications/peax-interactive-visual-pattern-search-in-sequential-data-using-unsupervised-deep-representation-learning)
+
+
+
 ### Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) ###
 | Year |  Paper |
 |------|-------------------------------|
