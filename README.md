@@ -62,6 +62,16 @@ There has been a rising trend of applying __Deep Learning__, or __AI__, to solve
 
 | Year |  Paper |
 |------|-------------------------------------------------------|
+| 2020 | [Decoding Surface Touch Typing from Hand-Tracking](https://dl.acm.org/doi/pdf/10.1145/3379337.3415816)
+| 2020 | [MonoEye: Multimodal Human Motion Capture System Using A Single Ultra-Wide Fisheye Camera](https://dl.acm.org/doi/pdf/10.1145/3379337.3415856)
+| 2020 | [DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fisheye Camera](https://dl.acm.org/doi/10.1145/3379337.3415818)
+| 2020 | [Rescribe: Authoring and Automatically Editing Audio Descriptions](https://dl.acm.org/doi/pdf/10.1145/3379337.3415864)
+| 2020 | [C-Face: Continuously Reconstructing Facial Expressions by Deep Learning Contours of the Face with Ear-mounted Miniature Cameras](https://dl.acm.org/doi/pdf/10.1145/3379337.3415879)
+| 2020 | [Interactive Exploration and Refinement of Facial Expression using Manifold Learning](https://dl.acm.org/doi/pdf/10.1145/3379337.3415877)
+| 2020 | [Brain Relevance Feedback for Interactive Image Generation](https://dl.acm.org/doi/pdf/10.1145/3379337.3415821)
+| 2020 | [Predicting Visual Importance Across Graphic Design Types](https://dl.acm.org/doi/pdf/10.1145/3379337.3415825)
+| 2020 | [Back-Hand-Pose: 3D Hand Pose Estimation for a Wrist-worn Camera via Dorsum Deformation Network](https://dl.acm.org/doi/pdf/10.1145/3379337.3415897)
+| 2020 | [Skyline: Interactive In-Editor Computational Performance Profiling for Deep Neural Network Training](https://dl.acm.org/doi/pdf/10.1145/3379337.3415890)
 | 2019 | [Mallard: Turn the Web into a Contextualized Prototyping nvironment for Machine Learning](https://dl.acm.org/citation.cfm?id=3347936)
 | 2019 | [Type, Then Correct: Intelligent Text Correction Techniques for Mobile Text Entry Using Neural Networks](https://dl.acm.org/citation.cfm?id=3347924)
 | 2019 | [Learning Cooperative Personalized Policies from Gaze Data](https://ait.ethz.ch/projects/2019/label-agent/downloads/label_agent_preprint.pdf)|
