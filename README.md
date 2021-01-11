@@ -13,6 +13,26 @@ There has been a rising trend of applying __Deep Learning__, or __AI__, to solve
 
 | Year |  Paper |
 |------|-------------------------------|
+| 2020 | [Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI](https://dl.acm.org/doi/abs/10.1145/3313831.3376445)
+| 2020 | [Re-examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design](https://dl.acm.org/doi/10.1145/3313831.3376301)
+| 2020 | [What is AI Literacy? Competencies and Design Considerations](https://dl.acm.org/doi/abs/10.1145/3313831.3376727)
+| 2020 | [Questioning the AI: Informing Design Practices for Explainable AI User Experiences](https://arxiv.org/abs/2001.02478)
+| 2020 | [Mental Models of AI Agents in a Cooperative Game Setting](https://dl.acm.org/doi/abs/10.1145/3313831.3376316)
+| 2020 | [Reinforcement Learning for the Adaptive Scheduling of Educational Activities](https://dl.acm.org/doi/abs/10.1145/3313831.3376518)
+| 2020 | [Predicting Mid-Air Interaction Movements and Fatigue Using Deep Reinforcement Learning ](https://dl.acm.org/doi/10.1145/3313831.3376701)
+| 2020 | [Enemy Within: Long-term Motivation Effects of Deep Player Behavior Models for Dynamic Difficulty Adjustment ](https://dl.acm.org/doi/10.1145/3313831.3376423)
+| 2020 | [OralCam: Enabling Self-Examination and Awareness of Oral Health Using a Smartphone Camera](https://dl.acm.org/doi/abs/10.1145/3313831.3376238)
+| 2020 | [A Human-Centered Evaluation of a Deep Learning System Deployed in Clinics for the Detection of Diabetic Retinopathy](https://dl.acm.org/doi/abs/10.1145/3313831.3376718)
+| 2020 | [Modeling Human Visual Search Performance on Realistic Webpages Using Analytical and Deep Learning Methods ](https://dl.acm.org/doi/abs/10.1145/3313831.3376870)
+| 2020 | [EarBuddy: Enabling On-Face Interaction via Wireless Earbuds](https://dl.acm.org/doi/abs/10.1145/3313831.3376836)
+| 2020 | ["Why is 'Chicago' deceptive?" Towards Building Model-Driven Tutorials for Humans](https://dl.acm.org/doi/10.1145/3313831.3376873)
+| 2020 | [Novice-AI Music Co-Creation via AI-Steering Tools for Deep Generative Models](https://dl.acm.org/doi/10.1145/3313831.3376739)
+| 2020 | [EmoG: Supporting the Sketching of Emotional Expressions for Storyboarding](https://dl.acm.org/doi/abs/10.1145/3313831.3376520)
+| 2020 | [Affective State Prediction Based on Semi-Supervised Learning from Smartphone Touch Data](https://dl.acm.org/doi/abs/10.1145/3313831.3376504)
+| 2020 | [Automated Class Discovery and One-Shot Interactions for Acoustic Activity Recognition](https://dl.acm.org/doi/10.1145/3313831.3376875)
+| 2020 | [Optimizing User Interface Layouts via Gradient Descent](https://dl.acm.org/doi/10.1145/3313831.3376589)
+| 2020 | [AL: An Adaptive Learning Support System for Argumentation Skills](https://dl.acm.org/doi/10.1145/3313831.3376732)
+| 2020 | [Studying the Effects of Cognitive Biases in Evaluation of Conversational Agents](https://arxiv.org/abs/2002.07927)
 | 2019 | [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf) |
 | 2019 | [Caring for Vincent: A Chatbot for Self-compassion](https://minha-lee.github.io/files/lee_vincent_chatbot_CHI2019.pdf) |
 | 2019 | [Unremarkable AI: Fitting Intelligent Decision Support into Critical, Clinical Decision-Making Processes](https://dl.acm.org/citation.cfm?id=3290605.3300468)|
