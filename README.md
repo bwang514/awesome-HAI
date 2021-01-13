@@ -1,6 +1,6 @@
 # Awesome Human-AI Interaction [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) #
 
-Awesome Human-AI Interaction is a paper collection that covers academic materials related to the topic of Human-AI interaction. This includes both research papers that discuss challenges and opportunities in interaction design with AI from the Human-Computer Interaction (HCI) perspective and that discuss how advances in Deep Learning can address interactive challenges from the AI perspective. This includes papers from top-tier HCI conference such as ACM CHI/UIST and AI conferences like Neurips and AAAI. We also include Human-AI Interaction courses from universities worldwide.
+Awesome Human-AI Interaction is a paper collection that covers academic materials related to the topic of Human-AI interaction. This includes both research papers that discuss challenges and opportunities in interaction design with AI from the Human-Computer Interaction (HCI) perspective and that discuss how advances in Deep Learning can address interactive challenges from the AI perspective. This includes papers from top-tier HCI conferences such as ACM CHI/UIST and AI conferences like Neurips and AAAI. We also include Human-AI Interaction courses from universities worldwide. The list is maintained by a community of volunteered students, please make a pull request if you want to contribute :)
 
 
 ## Table of Contents ##
