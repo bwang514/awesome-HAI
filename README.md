@@ -1,5 +1,7 @@
 # Awesome Human-AI Interaction [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) #
 
+![image](https://github.com/bwang514/awesome-HAI/blob/master/Human-AI%20Interaction.png)
+
 Awesome Human-AI Interaction is **a collection of academic materials related to the topic of Human-AI interaction.**
 * We include both research papers that discuss challenges and opportunities in interaction design with AI from the Human-Computer Interaction (HCI) perspective and that discuss how advances in Deep Learning can address interactive challenges from the AI perspective. We also include Human-AI Interaction courses from universities worldwide. 
 * The collection is maintained by a community of volunteered students, make a pull request if you want to contribute :)
